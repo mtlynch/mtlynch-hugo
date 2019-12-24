@@ -41,6 +41,8 @@ disqusShortname = "yourdiscussshortname"
 
     rtl = false
 
+    custom_css = ["main.css"]
+
 # Social links
 [[params.social]]
     name = "Github"
