@@ -15,7 +15,7 @@
           "{{ end }}
         src="{{ .RelPermalink }}" alt="{{$altText}}"/>
     </a>
-    <figcaption><p>{{ $caption }}</p></figcaption>
+    <figcaption><p>{{ $caption | markdownify }}</p></figcaption>
   </figure>
 {{ else }}
   could not find image
