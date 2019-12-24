@@ -2,13 +2,17 @@
 {{ $caption := .Get "caption"}}
 {{ $maxWidth := .Get "maxWidth"}}
 {{ $hasBorder := .Get "hasBorder"}}
+{{ $align := .Get "align" }}
 
 {{ with $.Page.Resources.GetMatch (.Get "src") }}
   <figure>
     <a href="{{.RelPermalink}}">
       <img
         {{ if $maxWidth }}style="max-width: {{ $maxWidth }}"{{ end }}
-        {{ if $hasBorder }}class="img-border"{{ end }}
+        {{ if or ($hasBorder) ($align) }}class="
+          {{ if $hasBorder }}img-border{{ end }}
+          {{ if $align }}align-{{ $align }}{{ end }}
+          "{{ end }}
         src="{{ .RelPermalink }}" alt="{{$altText}}"/>
     </a>
     <figcaption><p>{{ $caption }}</p></figcaption>
