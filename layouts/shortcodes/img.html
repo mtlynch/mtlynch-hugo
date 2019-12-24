@@ -19,5 +19,6 @@
     <figcaption><p>{{ $caption | markdownify }}</p></figcaption>
   </figure>
 {{ else }}
+  {{ errorf "failed to find image %s: %s" (.Get "src") .Position }}
   could not find image
 {{ end }}
