@@ -1,0 +1,15 @@
+<section class="container page retrospective">
+  <article>
+    <header>
+      <h1>{{ .Title }}</h1>
+    </header>
+
+    {{ if not (hasPrefix .Title "Notes from") }}
+    <h2>One-Line Summary</h2>
+
+    {{ .Params.excerpt }}
+    {{ end }}
+
+    {{ .Content }}
+  </article>
+</section>
