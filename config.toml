@@ -21,7 +21,7 @@ disqusShortname = "yourdiscussshortname"
     lineNos = false
     lineNumbersInTable = true
     noClasses = true
-    style = "monokai"
+    style = "rrt"
     tabWidth = 4
   [markup.goldmark.renderer]
     # Allow Markdown to include embedded HTML.
