@@ -177,7 +177,7 @@ CRF++ of 0.59
 
 Woohoo! It worked!
 
-{% include ads.html title="zestful" %}
+{{<zestful-ad>}}
 
 ## *Actually* building it in Docker
 
@@ -281,7 +281,7 @@ Well, it mostly worked. The model failed to identify "Cup" as the unit of measur
 
 {{< img src="cup-mozzarella.jpg" alt="Picture of Cup Mozzarella product" caption="A product invented by the machine learning model" maxWidth="300px" >}}
 
-{% include ads.html title="zestful" %}
+{{<zestful-ad>}}
 
 ## Making it easier
 
@@ -352,7 +352,7 @@ I cover that in [part two of this series](/resurrecting-2/), which describes:
 * How I configured the tests to run automatically before applying any change to the code
 * How I added my standard toolset to the codebase to facilitate maintenance
 
-{% include ads.html title="zestful" %}
+{{<zestful-ad>}}
 
 ---
 

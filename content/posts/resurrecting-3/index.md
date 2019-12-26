@@ -110,7 +110,7 @@ Very little of the code in `cli.py` related to reading or writing from the comma
 
 My first order of business was to slim down the `Cli` class so that it formed a more logical abstraction of a command-line interface.
 
-{% include ads.html title="zestful" %}
+{{<zestful-ad>}}
 
 ## Dissecting the `Cli` class
 
@@ -152,7 +152,7 @@ To minimize the probability of mistakes, I kept tight scope for each pull reques
 
 My end-to-end test passed, which told me I didn't break anything significant in the move, but my work wasn't done yet. My refactoring created a new function, which meant I needed a new unit test to exercise it.
 
-{% include ads.html title="zestful" %}
+{{<zestful-ad>}}
 
 ## My first unit test
 
@@ -340,7 +340,7 @@ If you'd like to see Zestful in action, check out the [live demo](https://zestfu
 
 If you're a developer and you work on software that handles recipe ingredients, let's talk. Shoot me an email at [michael@mtlynch.io](mailto:michael@mtlynch.io).
 
-{% include ads.html title="zestful" %}
+{{<zestful-ad>}}
 
 ---
 

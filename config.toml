@@ -46,7 +46,7 @@ disqusShortname = "silly-bits"
 
     rtl = false
 
-    custom_css = ["main.css"]
+    custom_css = ["css/main.css"]
 
 # Social links
 [[params.social]]

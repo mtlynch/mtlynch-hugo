@@ -119,7 +119,7 @@ It worked!
 
 When I told the code that 9 was no longer considered a number, the library's accuracy fell, and the script terminated with a failing exit code.
 
-{% include ads.html title="zestful" %}
+{{<zestful-ad>}}
 
 ## Expanding the end-to-end test
 
@@ -161,7 +161,7 @@ I didn't understand the file format yet, but I didn't have to. All I needed was 
 
 After copying these files to `tests/golden`, I saved them to source control as additional golden outputs. Then, I added `diff`s to my build script to detect when these output files changed.
 
-{% include ads.html title="zestful" %}
+{{<zestful-ad>}}
 
 ## The complete build script
 
@@ -292,7 +292,7 @@ Read on for [part three](/resurrecting-3/)  of this series, where I describe how
 * applied style conventions to the code automatically
 * integrated static analysis into the build
 
-{% include ads.html title="zestful" %}
+{{<zestful-ad>}}
 
 ---
 
