@@ -1,6 +1,3 @@
----
-title: docker_build
----
 #!/bin/bash
 
 # Exit on first failing command.

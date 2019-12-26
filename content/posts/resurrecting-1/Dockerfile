@@ -1,6 +1,3 @@
----
-title: Dockerfile
----
 FROM ubuntu:16.04
 
 RUN apt-get update -y && apt-get upgrade -y

@@ -105,7 +105,7 @@ Below, I've included the full text of each file and a brief discussion of what e
 
 #### docker-compose.yml
 
-{% include files.html title="docker-compose.yml" language="yml" %}
+{{< inline-file filename="docker-compose.yml" language="yml" >}}
 
 This file defines the high-level architecture of the web app. It tells Docker how to load the Sia and Nextcloud containers and specifies the configuration options the containers need to communicate with each other.
 
@@ -119,7 +119,7 @@ Finally, `nextcloud-data:/var/www/html` allows Nextcloud to persist its configur
 
 #### Dockerfile.sia
 
-{% include files.html title="Dockerfile.sia" language="bash" %}
+{{< inline-file filename="Dockerfile.sia" language="bash" >}}
 
 This is the Dockerfile for Sia. It creates a Docker container starting from the barebones Debian Jessie build of Linux. It then downloads the latest release of Sia (which is 1.3.2 as of this writing), unzips it, and runs `siad`, the Sia server daemon. The `--modules gctwr` flag loads only the Sia modules you need for renting Sia storage. The `--sia-directory /mnt/sia-data` flag ensures that Sia uses the persistent volume specified in `docker-compose.yml`.
 
@@ -127,7 +127,7 @@ The confusing part of this Dockerfile is the presence of `socat` and the `--api-
 
 #### Dockerfile.nextcloud
 
-{% include files.html title="Dockerfile.nextcloud" language="bash" %}
+{{< inline-file filename="Dockerfile.nextcloud" language="bash" >}}
 
 This file is straightforward because Nextcloud publishes its own Dockerfile. The only thing I added was a line to listen on port 80.
 

@@ -283,7 +283,7 @@ In the documentation for `coverage`, I noticed that it supported a [`paths` opti
 
 To use these options, I created the following `.coveragerc` file:
 
-{% include files.html title="coveragerc" language="ini" %}
+{{< inline-file filename="coveragerc" language="ini" >}}
 
 My new solution ran the `coverage` command within the Docker container, then executed the [`coverage combine` feature](https://coverage.readthedocs.io/en/coverage-5.0/cmd.html#cmd-combining) in the Travis environment, which canonicalized all of the paths to the Travis filesystem.
 

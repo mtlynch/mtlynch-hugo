@@ -1,6 +1,3 @@
----
-title: spec.js
----
 it('detects angry sentiment', () => {
   cy.visit('/analyze')
 

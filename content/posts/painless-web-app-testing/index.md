@@ -127,7 +127,7 @@ To write your first Cypress end-to-end test, you only need three files:
 
 This file specifies Cypress' [configuration options](https://docs.cypress.io/guides/references/configuration.html):
 
-{% include files.html title="cypress.json" language="javascript" %}
+{{< inline-file filename="cypress.json" language="javascript" >}}
 
 These settings aren't terribly interesting, but I set them to `false` to prevent Cypress from auto-generating unnecessary helper files.
 
@@ -135,7 +135,7 @@ These settings aren't terribly interesting, but I set them to `false` to prevent
 
 This file defines a Docker container for Sentimentalyzer and a Docker container for Cypress and allows them to talk to each other:
 
-{% include files.html title="docker-compose.yml" language="yml" %}
+{{< inline-file filename="docker-compose.yml" language="yml" >}}
 
 A few lines are worth calling out:
 
@@ -175,7 +175,7 @@ The `working_dir` line ensures that Cypress treats the `/e2e` directory as its c
 
 Now that the configuration is out of the way, it's time for the fun part: writing tests.
 
-{% include files.html title="spec.js" language="javascript" %}
+{{< inline-file filename="spec.js" language="javascript" >}}
 
 Even if you're unfamiliar with [the Cypress API](https://docs.cypress.io/api/api/table-of-contents.html), its semantics are readable enough that you probably understand the tests intuitively. In plain English, both tests follow the same sequence:
 

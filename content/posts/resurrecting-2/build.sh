@@ -1,6 +1,3 @@
----
-title: build.sh
----
 #!/bin/bash
 
 # Exit build script on first failure
