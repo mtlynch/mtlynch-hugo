@@ -11,7 +11,8 @@ pygmentsstyle = "colorful"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
+googleAnalytics = "UA-78473158-1"
+disqusShortname = "silly-bits"
 
 [markup]
   [markup.highlight]
@@ -28,9 +29,9 @@ disqusShortname = "yourdiscussshortname"
     unsafe= true
 
 [params]
-    author = "John Doe"
-    info = "Full Stack DevOps and Magician"
-    description = "John Doe's personal website"
+    author = "Michael Lynch"
+    info = "By day, a simple software engineer. By night, also a software engineer."
+    description = "Updates about my life and what I learn about creating software"
     keywords = "blog,developer,personal"
     avatarurl = "images/avatar.jpg"
 
