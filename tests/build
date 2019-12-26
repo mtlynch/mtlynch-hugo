@@ -7,13 +7,13 @@ set -x
 # Exit on unset variable.
 set -u
 
-_tests/check-trailing-whitespace
-#_tests/lint-frontmatter
-_tests/lint-markdown
+tests/check-trailing-whitespace
+#tests/lint-frontmatter
+tests/lint-markdown
 
 hugo
 
-_tests/lint-html "$@"
-_tests/check-google-analytics-token
-_tests/check-twitter-cards
-_tests/check-amazon-links "$@"
+tests/lint-html "$@"
+tests/check-google-analytics-token
+tests/check-twitter-cards
+tests/check-amazon-links "$@"

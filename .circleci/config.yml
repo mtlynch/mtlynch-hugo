@@ -10,7 +10,7 @@ jobs:
       - checkout
       - run:
           name: Check for trailing whitespace
-          command: _tests/check-trailing-whitespace
+          command: tests/check-trailing-whitespace
   lint-markdown:
     <<: *defaults
     docker:
@@ -19,7 +19,7 @@ jobs:
       - checkout
       - run:
           name: Lint Markdown
-          command: _tests/lint-markdown
+          command: tests/lint-markdown
   build:
     <<: *defaults
     docker:
@@ -47,7 +47,7 @@ jobs:
           at: ./
       - run:
           name: Lint HTML
-          command: _tests/lint-html
+          command: tests/lint-html
   check-google-analytics-token:
     <<: *defaults
     docker:
@@ -57,7 +57,7 @@ jobs:
           at: ./
       - run:
           name: Check presence of Google Analytics token
-          command: _tests/check-google-analytics-token
+          command: tests/check-google-analytics-token
   check-amazon-links:
     <<: *defaults
     docker:
@@ -67,7 +67,7 @@ jobs:
           at: ./
       - run:
           name: Check Amazon links
-          command: _tests/check-amazon-links
+          command: tests/check-amazon-links
 workflows:
   version: 2
   test-deploy:
