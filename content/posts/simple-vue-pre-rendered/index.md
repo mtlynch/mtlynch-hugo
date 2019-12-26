@@ -113,7 +113,7 @@ The first file defines a page in the web app. The `pages/` folder has special me
     <h1>Hello, world!</h1>
     <p>I'm an example of a pre-rendered Vue webpage.</p>
     <button v-on:click="count++">
-      I have been clicked {% raw %}{{ count }}{% endraw %} times
+      I have been clicked {{ count }} times
     </button>
   </div>
 </template>
@@ -227,7 +227,7 @@ This page uses Vue hooks to display information about how the page was rendered.
     <h1>About this Build</h1>
     <p v-if="buildTime">
       Nuxt pre-rendered this page at
-      <b>{% raw %}{{ buildTime }}{% endraw %}</b> (before the browser ever saw
+      <b>{{ buildTime }}</b> (before the browser ever saw
       it).
     </p>
     <template v-else>
@@ -241,7 +241,7 @@ This page uses Vue hooks to display information about how the page was rendered.
     </template>
     <p>
       The browser loaded this page at
-      <b>{% raw %}{{ loadTime }}{% endraw %}</b>.
+      <b>{{ loadTime }}</b>.
     </p>
     <p><nuxt-link to="/">Home</nuxt-link></p>
   </div>
