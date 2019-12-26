@@ -1,0 +1,86 @@
+defaults: &defaults
+  working_directory: ~/repo
+version: 2.1
+jobs:
+  check-whitespace:
+    <<: *defaults
+    docker:
+      - image: debian:jessie-20190228-slim
+    steps:
+      - checkout
+      - run:
+          name: Check for trailing whitespace
+          command: _tests/check-trailing-whitespace
+  lint-markdown:
+    <<: *defaults
+    docker:
+      - image: debian:jessie-20190228-slim
+    steps:
+      - checkout
+      - run:
+          name: Lint Markdown
+          command: _tests/lint-markdown
+  build:
+    <<: *defaults
+    docker:
+      - image: klakegg/hugo:0.62.0-ubuntu
+    steps:
+      - checkout
+      - attach_workspace:
+          at: ./
+      - run:
+          name: Build prod site
+          command: hugo
+      - persist_to_workspace:
+          root: ./
+          paths:
+            - public
+            - firebase.json
+            - .firebaserc
+  lint-html:
+    <<: *defaults
+    docker:
+      # TODO(mtlynch): Change to an image that's more updated.
+      - image: 18fgsa/html-proofer:latest
+    steps:
+      - attach_workspace:
+          at: ./
+      - run:
+          name: Lint HTML
+          command: _tests/lint-html
+  check-google-analytics-token:
+    <<: *defaults
+    docker:
+      - image: debian:jessie-20190228-slim
+    steps:
+      - attach_workspace:
+          at: ./
+      - run:
+          name: Check presence of Google Analytics token
+          command: _tests/check-google-analytics-token
+  check-amazon-links:
+    <<: *defaults
+    docker:
+      - image: debian:jessie-20190228-slim
+    steps:
+      - attach_workspace:
+          at: ./
+      - run:
+          name: Check Amazon links
+          command: _tests/check-amazon-links
+workflows:
+  version: 2
+  test-deploy:
+    jobs:
+      - check-whitespace
+      - lint-markdown
+      - build
+      - lint-html:
+          requires:
+            - build
+      - check-google-analytics-token:
+          requires:
+            - build
+      - check-amazon-links:
+          requires:
+            - build
