@@ -28,6 +28,9 @@ disqusShortname = "silly-bits"
     # Allow Markdown to include embedded HTML.
     unsafe= true
 
+[permalinks]
+    posts = "/:filename/"
+
 [params]
     author = "Michael Lynch"
     info = "By day, a simple software engineer. By night, also a software engineer."
