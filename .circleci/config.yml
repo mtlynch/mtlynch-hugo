@@ -42,21 +42,10 @@ jobs:
             - public
             - firebase.json
             - .firebaserc
-  lint-html:
-    <<: *defaults
-    docker:
-      # TODO(mtlynch): Change to an image that's more updated.
-      - image: 18fgsa/html-proofer:latest
-    steps:
-      - attach_workspace:
-          at: ./
-      - run:
-          name: Lint HTML
-          command: tests/lint-html
   check-google-analytics-token:
     <<: *defaults
     docker:
-      - image: debian:jessie-20190228-slim
+      - image: circleci/golang:1.13
     steps:
       - attach_workspace:
           at: ./
@@ -66,7 +55,7 @@ jobs:
   check-amazon-links:
     <<: *defaults
     docker:
-      - image: debian:jessie-20190228-slim
+      - image: circleci/golang:1.13
     steps:
       - attach_workspace:
           at: ./
