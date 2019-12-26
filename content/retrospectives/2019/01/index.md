@@ -1,6 +1,6 @@
 ---
 title: 'Is It Keto: Month 4'
-excerpt: My first dollar of revenue
+description: My first dollar of revenue
 date: '2019-01-05'
 ---
 

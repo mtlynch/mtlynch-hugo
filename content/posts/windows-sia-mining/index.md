@@ -8,7 +8,7 @@ tags:
 - cryptocurrency
 - mining
 - sia
-excerpt: A step-by-step guide from zero to mining automation
+description: A step-by-step guide from zero to mining automation
 lastmod: '2018-01-27T21:47:00-05:00'
 date: '2017-05-20'
 ---

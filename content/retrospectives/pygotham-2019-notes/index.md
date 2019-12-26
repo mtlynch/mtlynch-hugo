@@ -1,6 +1,6 @@
 ---
 title: Notes from PyGotham 2019
-excerpt: My notes and self-critiques from speaking at PyGotham.
+description: My notes and self-critiques from speaking at PyGotham.
 date: '2019-10-31'
 ---
 

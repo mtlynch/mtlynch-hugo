@@ -1,6 +1,6 @@
 ---
 title: Is It Keto - Month 8
-excerpt: Perhaps I should pay more attention to my only successful project.
+description: Perhaps I should pay more attention to my only successful project.
 date: '2019-09-06'
 ---
 

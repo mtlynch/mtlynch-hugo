@@ -1,6 +1,6 @@
 ---
 title: What Got Done - Month 1
-excerpt: While figuring out my next project, I launched a different product.
+description: While figuring out my next project, I launched a different product.
 date: '2019-06-07'
 ---
 

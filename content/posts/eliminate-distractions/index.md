@@ -1,7 +1,7 @@
 ---
 title: Eliminating Distractions from Social Media, Email, and StackOverflow
-excerpt: Simple techniques for managing your apps instead of allowing them to manage
-  you.
+description: Simple techniques for managing your apps instead of allowing them to
+  manage you.
 tags:
 - deep work
 - email

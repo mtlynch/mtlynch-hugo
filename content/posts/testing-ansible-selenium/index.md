@@ -7,7 +7,7 @@ tags:
 - ansible
 - clipbucket
 - docker
-excerpt: A way to perform strong tests on Ansible web app roles
+description: A way to perform strong tests on Ansible web app roles
 date: '2016-09-25'
 ---
 

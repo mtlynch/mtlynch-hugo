@@ -11,8 +11,8 @@ tags:
 header:
   teaser: images/resurrecting-3/cover.jpg
   og_image: images/resurrecting-3/cover.jpg
-excerpt: How I used safe techniques to refactor a legacy codebase and minimize the
-  risk of regressions
+description: How I used safe techniques to refactor a legacy codebase and minimize
+  the risk of regressions
 date: '2018-08-20'
 ---
 

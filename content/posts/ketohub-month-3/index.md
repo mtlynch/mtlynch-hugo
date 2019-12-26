@@ -8,8 +8,8 @@ tags:
 - keto
 - retention
 - growth
-excerpt: "I'm building a website. Here\u2019s what was good, bad, and learnable about\
-  \ it last month."
+description: "I'm building a website. Here\u2019s what was good, bad, and learnable\
+  \ about it last month."
 date: '2018-01-09'
 ---
 

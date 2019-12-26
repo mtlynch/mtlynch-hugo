@@ -1,6 +1,6 @@
 ---
 title: I'm Probably Procrastinating
-excerpt: I need to spend more time talking to customers.
+description: I need to spend more time talking to customers.
 date: '2019-12-05'
 ---
 

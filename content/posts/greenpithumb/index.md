@@ -1,6 +1,6 @@
 ---
 title: 'GreenPiThumb: A Raspberry Pi Gardening Bot'
-excerpt: Using the Raspberry Pi to water plants automatically
+description: Using the Raspberry Pi to water plants automatically
 header:
   teaser: images/greenpithumb/greenpithumb-side-full.jpg
   og_image: ''

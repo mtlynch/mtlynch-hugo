@@ -1,6 +1,6 @@
 ---
 title: 'End-to-End Testing Web Apps: The Painless Way'
-excerpt: Create an end-to-end test for your web app in under 30 minutes (no software
+description: Create an end-to-end test for your web app in under 30 minutes (no software
   installation required).
 header:
   teaser: images/painless-web-app-testing/cover.jpg

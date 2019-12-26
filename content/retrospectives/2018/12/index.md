@@ -1,6 +1,6 @@
 ---
 title: 'Is It Keto: Month 3'
-excerpt: Returning to a site that grew without me
+description: Returning to a site that grew without me
 date: '2018-12-02'
 ---
 

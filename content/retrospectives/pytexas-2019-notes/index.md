@@ -1,6 +1,6 @@
 ---
 title: Notes from PyTexas 2019
-excerpt: My notes and self-critiques from speaking at PyTexas.
+description: My notes and self-critiques from speaking at PyTexas.
 date: '2019-04-18'
 ---
 

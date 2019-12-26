@@ -1,6 +1,6 @@
 ---
 title: Recovery Month
-excerpt: How I doubled revenues by doing absolutely nothing.
+description: How I doubled revenues by doing absolutely nothing.
 date: '2019-05-08'
 ---
 

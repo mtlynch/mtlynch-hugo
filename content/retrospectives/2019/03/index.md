@@ -1,6 +1,6 @@
 ---
 title: 'Is It Keto: Month 6'
-excerpt: Do or die time
+description: Do or die time
 date: '2019-03-05'
 ---
 

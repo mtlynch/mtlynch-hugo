@@ -11,8 +11,8 @@ discuss_urls:
   reddit: https://www.reddit.com/r/siacoin/comments/6s02z5/tutorial_setting_up_sia_with_nextcloud/
   hacker_news: https://news.ycombinator.com/item?id=15243866
 lastmod: '2018-03-15T17:44:00-05:00'
-excerpt: "In today\u2019s post, I\u2019m going to show you how to set up your own\
-  \ cloud storage web app, similar to Dropbox or Google Drive, but with substantially\
+description: "In today\u2019s post, I\u2019m going to show you how to set up your\
+  \ own cloud storage web app, similar to Dropbox or Google Drive, but with substantially\
   \ lower costs."
 date: '2017-08-06'
 ---

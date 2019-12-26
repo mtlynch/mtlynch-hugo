@@ -7,8 +7,8 @@ tags:
 - zestful
 - mvp
 - startups
-excerpt: I've heard dozens of stories of founders failing because they shipped too
-  late. It seemed like an easy fate to avoid until I made the same mistake.
+description: I've heard dozens of stories of founders failing because they shipped
+  too late. It seemed like an easy fate to avoid until I made the same mistake.
 discuss_urls:
   reddit: https://redd.it/9eyaq1
   hacker_news: https://news.ycombinator.com/item?id=17960274

@@ -9,7 +9,7 @@ tags:
 - p2p
 - go
 - golang
-excerpt: An automated peer to peer lending bot
+description: An automated peer to peer lending bot
 date: '2016-11-26'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: What I've Been Doing Since Quitting My Job
-excerpt: An update on my progress since going off to work on my own.
+description: An update on my progress since going off to work on my own.
 header:
   og_image: images/since-quitting/so-stressed.jpg
   teaser: images/since-quitting/so-stressed.jpg

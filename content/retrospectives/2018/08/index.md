@@ -1,6 +1,6 @@
 ---
 title: 'Zestful: Month 5'
-excerpt: Launched, but still no customers
+description: Launched, but still no customers
 date: '2018-08-08'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Is It Keto: Month 5'
-excerpt: It's working, but not well enough
+description: It's working, but not well enough
 date: '2019-02-06'
 ---
 

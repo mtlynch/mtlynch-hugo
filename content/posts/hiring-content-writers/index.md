@@ -6,8 +6,8 @@ tags:
 header:
   teaser: images/hiring-content-writers/cover.jpg
   og_image: images/hiring-content-writers/cover.jpg
-excerpt: A complete walkthrough of how I find freelance writers, screen them, and
-  train them to work with me.
+description: A complete walkthrough of how I find freelance writers, screen them,
+  and train them to work with me.
 date: '2019-09-30'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: How to Grow Quickly and Never Turn a Profit
-excerpt: A eulogy for my failed online business.
+description: A eulogy for my failed online business.
 header:
   teaser: images/keep-growing-never-profit/cover.jpg
   og_image: images/keep-growing-never-profit/cover.jpg

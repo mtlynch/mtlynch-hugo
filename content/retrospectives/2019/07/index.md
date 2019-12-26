@@ -1,6 +1,6 @@
 ---
 title: What Got Done - Month 2
-excerpt: The conversation should be about thousands of dollars not, tens of dollars.
+description: The conversation should be about thousands of dollars not, tens of dollars.
 date: '2019-07-03'
 ---
 

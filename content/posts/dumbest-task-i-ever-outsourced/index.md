@@ -6,8 +6,8 @@ tags:
 header:
   teaser: images/dumbest-task-i-ever-outsourced/cover.jpg
   og_image: images/dumbest-task-i-ever-outsourced/cover.jpg
-excerpt: I derive immense satisfaction from outsourcing my chores, even when it causes
-  me to pay $96 to clean a $39 keyboard.
+description: I derive immense satisfaction from outsourcing my chores, even when it
+  causes me to pay $96 to clean a $39 keyboard.
 discuss_urls:
   reddit: https://redd.it/cpthai
   hacker_news: https://news.ycombinator.com/item?id=20685783

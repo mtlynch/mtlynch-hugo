@@ -1,6 +1,6 @@
 ---
 title: A Simple Pre-Rendered Web App Using Vue + Nuxt
-excerpt: The easiest way to improve social sharing and SEO for a single-page app.
+description: The easiest way to improve social sharing and SEO for a single-page app.
 header:
   teaser: images/simple-vue-pre-rendered/og-cover.jpg
   og_image: images/simple-vue-pre-rendered/og-cover.jpg

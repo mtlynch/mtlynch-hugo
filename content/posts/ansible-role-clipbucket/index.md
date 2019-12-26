@@ -7,7 +7,7 @@ tags:
 - ansible
 - clipbucket
 - docker
-excerpt: An Ansible role love story
+description: An Ansible role love story
 date: '2016-09-06'
 ---
 

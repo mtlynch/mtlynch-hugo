@@ -1,7 +1,7 @@
 ---
 title: How to Hire a Cartoonist to Make Your Blog Less Boring
-excerpt: With no idea what I was doing, I hired a cartoonist to illustrate my blog.
-  The results were surprisingly positive.
+description: With no idea what I was doing, I hired a cartoonist to illustrate my
+  blog. The results were surprisingly positive.
 header:
   teaser: images/how-to-hire-a-cartoonist/mma-sketch.png
   og_image: images/how-to-hire-a-cartoonist/mma-sketch.png

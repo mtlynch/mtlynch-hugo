@@ -6,8 +6,8 @@ tags:
 header:
   teaser: images/status-updates-to-nobody/cover.jpg
   og_image: images/status-updates-to-nobody/cover.jpg
-excerpt: Writing short entries in a plain textbox bolstered my motivation and miraculously
-  made status meetings interesting.
+description: Writing short entries in a plain textbox bolstered my motivation and
+  miraculously made status meetings interesting.
 discuss_urls:
   hacker_news: https://news.ycombinator.com/item?id=20274079
 date: '2019-06-25'

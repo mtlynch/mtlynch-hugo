@@ -9,7 +9,7 @@ tags:
 header:
   og_image: images/retrofit-docker-gcs/full-architecture.jpg
   teaser: images/retrofit-docker-gcs/naive-vs-desired.jpg
-excerpt: An exercise in integrating Docker, Google Cloud Storage, and the gcsfuse
+description: An exercise in integrating Docker, Google Cloud Storage, and the gcsfuse
   utility.
 discuss_urls:
   reddit: https://redd.it/a3206o

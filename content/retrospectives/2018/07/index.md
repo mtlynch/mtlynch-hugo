@@ -1,6 +1,6 @@
 ---
 title: 'Zestful: Month 4'
-excerpt: Shipping too late
+description: Shipping too late
 date: '2018-07-02'
 ---
 

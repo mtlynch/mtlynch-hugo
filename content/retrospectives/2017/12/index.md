@@ -1,6 +1,6 @@
 ---
 title: 'KetoHub: Month 2'
-excerpt: This was before I came up with taglines for each retrospective.
+description: This was before I came up with taglines for each retrospective.
 date: '2017-12-03'
 ---
 

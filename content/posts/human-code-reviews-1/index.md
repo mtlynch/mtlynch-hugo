@@ -10,9 +10,9 @@ tags:
 discuss_urls:
   reddit: https://www.reddit.com/r/programming/comments/75wmuw/how_to_do_code_reviews_like_a_human/
   hacker_news: https://news.ycombinator.com/item?id=15475902
-excerpt: "Lately, I\u2019ve been reading articles about best practices for code reviews.\
-  \ I notice that these articles focus on finding bugs to the exclusion of almost\
-  \ every..."
+description: "Lately, I\u2019ve been reading articles about best practices for code\
+  \ reviews. I notice that these articles focus on finding bugs to the exclusion of\
+  \ almost every..."
 date: '2017-10-12'
 ---
 

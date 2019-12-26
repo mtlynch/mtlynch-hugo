@@ -2,7 +2,7 @@
 title: A Follow-Up and Space Duck
 header:
   og_image: ''
-excerpt: A thank you and a follow-up about my plans.
+description: A thank you and a follow-up about my plans.
 tags:
 - space duck
 date: '2018-03-01'

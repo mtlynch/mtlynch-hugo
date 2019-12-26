@@ -8,7 +8,7 @@ tags:
 - homelab
 - kimchi
 - kvm
-excerpt: Taking my development VMs to the next level
+description: Taking my development VMs to the next level
 date: '2017-05-07'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: What Got Done - Month 3
-excerpt: Ending the What Got Done experiment.
+description: Ending the What Got Done experiment.
 date: '2019-08-02'
 ---
 

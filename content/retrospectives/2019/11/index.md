@@ -1,6 +1,6 @@
 ---
 title: Is It Keto - Month 10
-excerpt: Quickly made my first sale, then struggled to make more.
+description: Quickly made my first sale, then struggled to make more.
 date: '2019-11-08'
 ---
 

@@ -10,8 +10,8 @@ tags:
 - is it keto
 - ketohub
 - money
-excerpt: Exactly one year ago, I quit my job at Google, so it's time to reflect on
-  how the decision has affected my finances, lifestyle, and happiness.
+description: Exactly one year ago, I quit my job at Google, so it's time to reflect
+  on how the decision has affected my finances, lifestyle, and happiness.
 header:
   teaser: images/solo-developer-year-1/cover.jpg
   og_image: images/solo-developer-year-1/cover.jpg

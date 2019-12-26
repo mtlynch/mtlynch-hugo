@@ -4,7 +4,7 @@ tags:
 - upwork
 - isitketo
 - outsourcing
-excerpt: How I solved the mystery of the worst scammer I've ever encountered.
+description: How I solved the mystery of the worst scammer I've ever encountered.
 header:
   teaser: images/upwork-scammer/profile-stitching.png
   og_image: images/upwork-scammer/profile-stitching.png

@@ -4,7 +4,7 @@ tags:
 - siacoin
 - cryptocurrency
 - sia
-excerpt: An analysis of how Nebulous Labs can improve its bounty program for Sia
+description: An analysis of how Nebulous Labs can improve its bounty program for Sia
 header:
   teaser: images/sia-minio-postmortem/minio-postmortem.png
   og_image: ''

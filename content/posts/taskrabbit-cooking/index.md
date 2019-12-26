@@ -7,7 +7,7 @@ tags:
 - outsourcing
 - cooking
 - taskrabbit
-excerpt: Hiring a personal chef on the cheap
+description: Hiring a personal chef on the cheap
 date: '2017-01-11'
 ---
 

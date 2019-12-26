@@ -1,6 +1,6 @@
 ---
 title: Is It Keto - Month 9
-excerpt: I'm ready to take bigger bets.
+description: I'm ready to take bigger bets.
 date: '2019-10-05'
 ---
 

@@ -7,7 +7,7 @@ tags:
 - editing
 - blogging
 - meta
-excerpt: Investing in lifelong writing skills paid dividends immediately.
+description: Investing in lifelong writing skills paid dividends immediately.
 date: '2017-07-25'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Is It Keto: Month 7'
-excerpt: A record month, but it's time to give up.
+description: A record month, but it's time to give up.
 date: '2019-04-03'
 ---
 
