@@ -1,14 +1,13 @@
 ---
 title: Automatically Deploying ClipBucket with Ansible
-header:
-  teaser: images/ansible-role-clipbucket/clipbucket-install-complete.png
-  og_image: ''
 tags:
 - ansible
 - clipbucket
 - docker
 description: An Ansible role love story
 date: '2016-09-06'
+images:
+- images/ansible-role-clipbucket/clipbucket-install-complete.png
 ---
 
 ## Overview

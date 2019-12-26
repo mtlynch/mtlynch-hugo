@@ -1,8 +1,5 @@
 ---
 title: How to Do Code Reviews Like a Human (Part Two)
-header:
-  og_image: images/human-code-reviews-2/cover-part-two.png
-  teaser: images/human-code-reviews-2/cover-part-two.png
 tags:
 - code review
 - culture
@@ -12,6 +9,8 @@ discuss_urls:
   reddit: https://www.reddit.com/r/programming/comments/7bum18/how_to_do_code_reviews_like_a_human_part_two/
   hacker_news: https://news.ycombinator.com/item?id=15663966
 date: '2017-11-09'
+images:
+- images/human-code-reviews-2/cover-part-two.png
 ---
 
 {{< img src="cover-part-two.png" >}}

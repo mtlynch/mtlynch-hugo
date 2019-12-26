@@ -3,15 +3,14 @@ title: The Dumbest Task I Ever Outsourced
 tags:
 - outsourcing
 - taskrabbit
-header:
-  teaser: images/dumbest-task-i-ever-outsourced/cover.jpg
-  og_image: images/dumbest-task-i-ever-outsourced/cover.jpg
 description: I derive immense satisfaction from outsourcing my chores, even when it
   causes me to pay $96 to clean a $39 keyboard.
 discuss_urls:
   reddit: https://redd.it/cpthai
   hacker_news: https://news.ycombinator.com/item?id=20685783
 date: '2019-08-13'
+images:
+- images/dumbest-task-i-ever-outsourced/cover.jpg
 ---
 
 {{< img src="cover.jpg" alt="The Dumbest Task I Ever Outsourced (cover image)" maxWidth="1000px" >}}

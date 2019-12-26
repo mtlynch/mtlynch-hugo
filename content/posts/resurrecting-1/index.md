@@ -6,15 +6,14 @@ tags:
 - docker
 - ingredient-phrase-tagger
 - ingredient parsing
-header:
-  og_image: images/resurrecting-1/cover.jpg
-  teaser: images/resurrecting-1/cover.jpg
 description: The story of how I got an old library up and running again and used it
   to build a new business
 discuss_urls:
   hacker_news: https://news.ycombinator.com/item?id=17600798
   reddit: https://www.reddit.com/r/programming/comments/91heln/resurrecting_a_dead_library_resuscitation/
 date: '2018-07-24'
+images:
+- images/resurrecting-1/cover.jpg
 ---
 
 When I arrived on the scene, it wasn't a pretty sight.

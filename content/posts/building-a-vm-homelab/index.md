@@ -1,8 +1,5 @@
 ---
 title: Building a Homelab VM Server
-header:
-  teaser: images/building-a-vm-homelab/vm-server-parts.jpg
-  og_image: ''
 tags:
 - virtualization
 - homelab
@@ -10,6 +7,8 @@ tags:
 - kvm
 description: Taking my development VMs to the next level
 date: '2017-05-07'
+images:
+- images/building-a-vm-homelab/vm-server-parts.jpg
 ---
 
 ## Overview

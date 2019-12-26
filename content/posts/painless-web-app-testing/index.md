@@ -2,9 +2,6 @@
 title: 'End-to-End Testing Web Apps: The Painless Way'
 description: Create an end-to-end test for your web app in under 30 minutes (no software
   installation required).
-header:
-  teaser: images/painless-web-app-testing/cover.jpg
-  og_image: images/painless-web-app-testing/cover.jpg
 tags:
 - testing
 - cypress
@@ -15,6 +12,8 @@ discuss_urls:
   hacker_news: https://news.ycombinator.com/item?id=19797185
 lastmod: '2019-05-02T19:39:00-04:00'
 date: '2019-05-01'
+images:
+- images/painless-web-app-testing/cover.jpg
 ---
 
 {{< img src="cover.jpg" alt="A reusable template for testing web apps (cover image)" maxWidth="1000px" >}}

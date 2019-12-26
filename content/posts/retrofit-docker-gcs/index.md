@@ -6,14 +6,13 @@ tags:
 - gcsfuse
 - google compute engine
 - google container registry
-header:
-  og_image: images/retrofit-docker-gcs/full-architecture.jpg
-  teaser: images/retrofit-docker-gcs/naive-vs-desired.jpg
 description: An exercise in integrating Docker, Google Cloud Storage, and the gcsfuse
   utility.
 discuss_urls:
   reddit: https://redd.it/a3206o
 date: '2018-12-04'
+images:
+- images/retrofit-docker-gcs/full-architecture.jpg
 ---
 
 I recently installed a media sharing app to one of my servers. It was simple to install, but it hid a dastardly trap for long-term maintenance.

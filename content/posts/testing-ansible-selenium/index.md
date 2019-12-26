@@ -1,14 +1,13 @@
 ---
 title: Testing Ansible Web App Roles with Selenium
-header:
-  teaser: images/testing-ansible-selenium/bunny-film-error.png
-  og_image: ''
 tags:
 - ansible
 - clipbucket
 - docker
 description: A way to perform strong tests on Ansible web app roles
 date: '2016-09-25'
+images:
+- images/testing-ansible-selenium/bunny-film-error.png
 ---
 
 ## Overview

@@ -1,14 +1,13 @@
 ---
 title: 'Adventures in Outsourcing: Cooking with TaskRabbit'
-header:
-  teaser: images/taskrabbit-cooking/IMG_20161115_212108.jpg
-  og_image: ''
 tags:
 - outsourcing
 - cooking
 - taskrabbit
 description: Hiring a personal chef on the cheap
 date: '2017-01-11'
+images:
+- images/taskrabbit-cooking/IMG_20161115_212108.jpg
 ---
 
 ## Overview

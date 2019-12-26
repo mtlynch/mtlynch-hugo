@@ -12,14 +12,13 @@ tags:
 - money
 description: Exactly one year ago, I quit my job at Google, so it's time to reflect
   on how the decision has affected my finances, lifestyle, and happiness.
-header:
-  teaser: images/solo-developer-year-1/cover.jpg
-  og_image: images/solo-developer-year-1/cover.jpg
 discuss_urls:
   reddit: https://redd.it/am2i0o
   hacker_news: https://news.ycombinator.com/item?id=19054150
   indie_hackers: https://www.indiehackers.com/mtlynch/post/c514bf6b33
 date: '2019-02-01'
+images:
+- images/solo-developer-year-1/cover.jpg
 ---
 
 {{< img src="cover.jpg" alt="My first year as a solo developer (cover image)" maxWidth="1000px" >}}

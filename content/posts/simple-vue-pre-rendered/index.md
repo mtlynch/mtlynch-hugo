@@ -1,14 +1,13 @@
 ---
 title: A Simple Pre-Rendered Web App Using Vue + Nuxt
 description: The easiest way to improve social sharing and SEO for a single-page app.
-header:
-  teaser: images/simple-vue-pre-rendered/og-cover.jpg
-  og_image: images/simple-vue-pre-rendered/og-cover.jpg
 tags:
 - vue
 - nuxt
 - SPAs
 date: '2019-12-19'
+images:
+- images/simple-vue-pre-rendered/og-cover.jpg
 ---
 
 In this post, I'll show you how to pre-render pages using Vue and Nuxt. This method combines the convenient development experience of Vue without forfeiting critical features like social sharing or search engine optimization.

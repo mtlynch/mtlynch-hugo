@@ -3,14 +3,13 @@ title: Staying Motivated by Sending Status Updates to Nobody
 tags:
 - what got done
 - startups
-header:
-  teaser: images/status-updates-to-nobody/cover.jpg
-  og_image: images/status-updates-to-nobody/cover.jpg
 description: Writing short entries in a plain textbox bolstered my motivation and
   miraculously made status meetings interesting.
 discuss_urls:
   hacker_news: https://news.ycombinator.com/item?id=20274079
 date: '2019-06-25'
+images:
+- images/status-updates-to-nobody/cover.jpg
 ---
 
 {{< img src="cover.jpg" alt="Staying Motivated by Sending Status Updates to Nobody (cover image)" maxWidth="1000px" >}}

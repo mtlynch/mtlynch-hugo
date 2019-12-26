@@ -1,8 +1,5 @@
 ---
 title: Why I Quit Google to Work for Myself
-header:
-  teaser: images/why-i-quit-google/spoiled-coder.png
-  og_image: images/why-i-quit-google/spoiled-coder.png
 description: For the past four years, I've worked as a software developer at Google.
   On February 1st, I quit. It was because they refused to buy me a Christmas present.
 discuss_urls:
@@ -14,6 +11,8 @@ tags:
 - google
 - sia
 date: '2018-02-28'
+images:
+- images/why-i-quit-google/spoiled-coder.png
 ---
 
 For the past four years, I've worked as a software developer at Google. On February 1st, I quit. It was because they refused to buy me a Christmas present.

@@ -1,8 +1,5 @@
 ---
 title: Automated Prosper Investing with ProsperBot
-header:
-  teaser: images/prosperbot/prosperbot-frontend.png
-  og_image: ''
 tags:
 - prosper
 - lending
@@ -11,6 +8,8 @@ tags:
 - golang
 description: An automated peer to peer lending bot
 date: '2016-11-26'
+images:
+- images/prosperbot/prosperbot-frontend.png
 ---
 
 ## Overview

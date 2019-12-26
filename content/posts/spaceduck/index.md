@@ -1,7 +1,5 @@
 ---
 title: A Follow-Up and Space Duck
-header:
-  og_image: ''
 description: A thank you and a follow-up about my plans.
 tags:
 - space duck

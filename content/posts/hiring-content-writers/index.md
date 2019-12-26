@@ -3,12 +3,11 @@ title: 'Hiring Content Writers: A Guide for Small Businesses'
 tags:
 - is it keto
 - outsourcing
-header:
-  teaser: images/hiring-content-writers/cover.jpg
-  og_image: images/hiring-content-writers/cover.jpg
 description: A complete walkthrough of how I find freelance writers, screen them,
   and train them to work with me.
 date: '2019-09-30'
+images:
+- images/hiring-content-writers/cover.jpg
 ---
 
 {{< img src="cover.jpg" alt="Hiring Content Writers A Guide for Small Businesses (cover image)" maxWidth="1000px" >}}

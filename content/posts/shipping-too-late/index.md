@@ -1,8 +1,5 @@
 ---
 title: How I Tricked Myself into Shipping Too Late
-header:
-  og_image: images/shipping-too-late/rejection.jpg
-  teaser: images/shipping-too-late/rejection.jpg
 tags:
 - zestful
 - mvp
@@ -14,6 +11,8 @@ discuss_urls:
   hacker_news: https://news.ycombinator.com/item?id=17960274
   indie_hackers: https://www.indiehackers.com/forum/how-i-tricked-myself-into-shipping-too-late-ae24d5e356
 date: '2018-09-11'
+images:
+- images/shipping-too-late/rejection.jpg
 ---
 
 Many software founders fail for a simple reason: they ship too late. They spend years developing a product in a vacuum only to see it crumble the first time a real customer touches it.

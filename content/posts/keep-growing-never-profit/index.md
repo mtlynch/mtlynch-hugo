@@ -1,9 +1,6 @@
 ---
 title: How to Grow Quickly and Never Turn a Profit
 description: A eulogy for my failed online business.
-header:
-  teaser: images/keep-growing-never-profit/cover.jpg
-  og_image: images/keep-growing-never-profit/cover.jpg
 tags:
 - is it keto
 - startups
@@ -12,6 +9,8 @@ discuss_urls:
   indie_hackers: https://www.indiehackers.com/post/37ea42382d
   reddit: https://redd.it/bvap1u
 date: '2019-05-31'
+images:
+- images/keep-growing-never-profit/cover.jpg
 ---
 
 {{< img src="cover.jpg" alt="How to Keep Growing and Never Turn a Profit (cover image)" maxWidth="1000px" >}}

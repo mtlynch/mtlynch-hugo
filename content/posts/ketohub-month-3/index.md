@@ -1,8 +1,5 @@
 ---
 title: 'KetoHub Update: Month 3'
-header:
-  teaser: images/ketohub-month-3/ketohub-ga-dec.png
-  og_image: ''
 tags:
 - ketohub
 - keto
@@ -11,6 +8,8 @@ tags:
 description: "I'm building a website. Here\u2019s what was good, bad, and learnable\
   \ about it last month."
 date: '2018-01-09'
+images:
+- images/ketohub-month-3/ketohub-ga-dec.png
 ---
 
 In early October, I launched a new website, KetoHub, a recipe aggregator for keto meals. Each month, I've evaluated the site's progress to decide how it's doing and what areas need improvement.
