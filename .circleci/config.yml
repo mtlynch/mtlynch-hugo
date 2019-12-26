@@ -69,9 +69,6 @@ workflows:
       - check-whitespace
       - lint-markdown
       - build
-      - lint-html:
-          requires:
-            - build
       - check-google-analytics-token:
           requires:
             - build
