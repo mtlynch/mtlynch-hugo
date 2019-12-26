@@ -38,8 +38,8 @@ disqusShortname = "silly-bits"
     keywords = "blog,developer,personal"
     avatarurl = "images/avatar.jpg"
 
-    favicon_32 = "/img/favicon-32x32.png"
-    favicon_16 = "/img/favicon-16x16.png"
+    favicon_32 = "/images/favicon/favicon-32x32.png"
+    favicon_16 = "/images/favicon/favicon-16x16.png"
 
     hidecredits = false
     hidecopyright = false
