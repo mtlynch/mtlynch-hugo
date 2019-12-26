@@ -1,4 +1,4 @@
-{{ if in (.Site.BaseURL | string) "https://mtlynch.io" }}
+{{ if not .Site.IsServer }}
 <script>
   window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
   ga('create', '{{ .Site.GoogleAnalytics }}', 'auto');
