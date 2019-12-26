@@ -140,7 +140,7 @@ Particularly interesting is his effective wage for each project. It shows how hi
 
 As an exercise, Jimmy Lipham made a [live demo](https://youtu.be/J_jGnGH3YsU) of UI tweaks he made to [a website that needed design help](https://www.indiehackers.com/post/01a9c08e6b).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J_jGnGH3YsU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube J_jGnGH3YsU >}}
 
  It's useful because there are so many little techniques in the video that anyone can reuse on their own sites (I applied several of them to Is It Keto):
 

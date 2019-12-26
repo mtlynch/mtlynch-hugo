@@ -41,7 +41,7 @@ See ["Critiquing my talk"](#critiquing-my-talk) (below).
 
 ### Archiving the Internet Before it All Rots Away
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7eoz_EU6-wQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube 7eoz_EU6-wQ >}}
 
 **Speaker**: [Nick Sweeting](https://nicksweeting.com/) from Monadical
 
@@ -84,7 +84,7 @@ Other things I liked:
 
 ### Maintaining a Python Project When It’s Not Your Job
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OvUsbGpKp64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube OvUsbGpKp64 >}}
 
 **Speaker**: [Hynek Schlawack](https://hynek.me/)
 
@@ -111,7 +111,7 @@ Other things I liked:
 
 ### Make You An Async For Great Good!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XEkuqe7tSlA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube XEkuqe7tSlA >}}
 
 **Speaker**: [Mark Smith](https://twitter.com/judy2k) from Nexmo
 
@@ -121,7 +121,7 @@ I was impressed at how much of `asyncio`'s functionality Mark was able to reimpl
 
 ## Critiquing my talk
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ElzBGwyDzCc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube ElzBGwyDzCc >}}
 
 **Speaker**: Michael Lynch (me)
 

@@ -150,7 +150,7 @@ We turned on the pump, and  the severed finger of the glove immediately shot off
 
 It's not the most *elegant* solution, but it mostly works.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bI6UaJjYZ00" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube bI6UaJjYZ00 >}}
 
 ### The gardening part wasn't supposed to be hard
 
@@ -158,7 +158,7 @@ Electronics were supposed to be the big challenge of GreenPiThumb. Gardening did
 
 It turned out that we didn't have basic gardening skills. GreenPiThumb is intended to automate the human part of tending an indoor garden, but to automate anything, a human has to know what "correct" looks like. It was hard to decide whether GreenPiThumb was watering too much or too little because we ourselves had no idea how much water to use. That's  how we ended up accidentally making this horticultural snuff film:
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/TYAdw6BwYyQ?rel=0&html5=1&origin={{ site.url }}" frameborder="0" allowfullscreen></iframe>
+{{< youtube TYAdw6BwYyQ >}}
 
 ### How hard can it be to measure moisture?
 
@@ -219,7 +219,7 @@ The timelapses have been the most fun part of this process. This one is from our
 
 For the second batch, we kept the camera in the exact same position throughout growth. This is the progress of batch two so far:
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/6bvb2EvKQ58?rel=0&html5=1&origin={{ site.url }}" frameborder="0" allowfullscreen></iframe>
+{{< youtube 6bvb2EvKQ58 >}}
 
 ## Lessons learned
 

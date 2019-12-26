@@ -26,7 +26,7 @@ I created a screencast that walks through the steps of this guide and demonstrat
 
 If you prefer video tutorials, I recommend you download the files in the ["Create files and folders for Docker"](#create-files-and-folders-for-docker) section below and then follow along with the video.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/i3G5RIXJCLk?rel=0&html5=1&origin={{ site.url }}" frameborder="0" allowfullscreen></iframe>
+{{< youtube i3G5RIXJCLk >}}
 
 ## Requirements
 
