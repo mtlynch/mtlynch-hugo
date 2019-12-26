@@ -10,5 +10,5 @@ set -e
 set -u
 
 mdl \
-  $(find -name "*.md" ./content) \
+  $(find ./content -name "*.md") \
   --style ./tests/markdown-linter-style.rb
