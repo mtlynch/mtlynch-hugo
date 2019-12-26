@@ -14,10 +14,12 @@
 {{ end }}
 
 {{ if $src }}
-  <figure {{ if $align }}class="align-{{ $align }}"{{ end }}>
+  <figure
+    {{ if $align }}class="align-{{ $align }}"{{ end }}
+    {{ if $maxWidth }}style="max-width: {{ $maxWidth }}"{{ end }}
+    >
     <a href="{{ if $linkUrl }}{{ $linkUrl }}{{ else }}{{ $src }}{{ end }}">
       <img
-        {{ if $maxWidth }}style="max-width: {{ $maxWidth }}"{{ end }}
         {{ if $hasBorder }}class="img-border"{{ end }}
         src="{{ $src }}" alt="{{$altText}}"/>
     </a>
