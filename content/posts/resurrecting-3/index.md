@@ -139,7 +139,6 @@ Once I discovered that most of `Cli`'s methods could live in another module, I h
 
 I realized that `Cli` called all of the other functions within the loop body of `generate_data`. If I extracted that code to a new function, `Cli` would need access only to the new function and none of its previous methods.
 
-
 {{< img src="function-diff.png" alt="Diff from YAPF changes" caption="Extracting loop body from `generate_data` into a new function called `translate_row`" maxWidth="614px" hasBorder="True" >}}
 
 This change made the `Cli` class slimmer and more logically cohesive. It now consisted of just two public methods and one private one:
@@ -197,7 +196,6 @@ Unit tests aren't much fun unless they're integrated into the build process, so 
 
 Because Travis continuous integration was already running my build script on every code change, I saw the unit test output on [the next Travis build](https://travis-ci.org/mtlynch/ingredient-phrase-tagger/builds/416406390):
 
-
 {{< img src="travis-unit-tests.png" alt="Unit test logging output" caption="Unit test logging in [Travis' build output](https://travis-ci.org/mtlynch/ingredient-phrase-tagger/builds/416406390)" maxWidth="715px" >}}
 
 ## Adding code coverage
@@ -242,7 +240,6 @@ after_success:
 
 Still, the Coveralls dashboard showed nothing:
 
-
 {{< img src="no-coverage-data-2.png" alt="Screenshot of Coveralls showing no results (again)" caption="Coveralls *still* shows no code coverage information" maxWidth="697px" hasBorder="True" >}}
 
 However, [the Travis build](https://travis-ci.org/mtlynch/ingredient-phrase-tagger/builds/415474978) printed output that didn't appear in previous builds:
@@ -282,7 +279,6 @@ How could I bridge the gap between these two different environments with incompa
 ## A roundabout way to convert paths
 
 In the documentation for `coverage`, I noticed that it supported a [`paths` option](https://coverage.readthedocs.io/en/coverage-5.0/config.html#paths) that discussed combining paths from multiple filesystems:
-
 
 {{< img src="paths-param.png" alt="Screenshot of paths documentation" caption="Documentation for [`paths` option](https://coverage.readthedocs.io/en/coverage-5.0/config.html#paths) of `coverage` command" maxWidth="712px" hasBorder="True" linkUrl="https://coverage.readthedocs.io/en/coverage-5.0/config.html#paths" >}}
 

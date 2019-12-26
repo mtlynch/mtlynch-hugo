@@ -7,7 +7,6 @@ purchase_url: https://amzn.to/2NcYWqL
 
 This was my favorite book of 2018. It profoundly impacted the way I approach my work and organize my time. After reading it, I find it easier to maintain concentration and to prioritize important tasks. It was also the final push I needed to un-addict myself from social media.
 
-
 <!--more-->
 
 ---

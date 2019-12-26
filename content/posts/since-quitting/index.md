@@ -131,7 +131,6 @@ I needed a more flexible way for KetoHub to process ingredients.
 
 Early in KetoHub's life, a commenter on Indie Hackers [showed me](https://www.indiehackers.com/forum/ketohub-month-2-report-1229ddb803?commentId=-L-clmWeoqUnFcAzTi5t) a blog post describing how *The New York Times* [used machine learning](https://open.blogs.nytimes.com/2015/04/09/extracting-structured-data-from-recipes-using-conditional-random-fields/) to parse ingredients from the *Times'* historical archive of recipes.
 
-
 {{< img src="nyt-parser.png" alt="Visualization of New York Times results" caption="Visualization of *The New York Times*' ingredient parser results" maxWidth="509px" >}}
 
 That sounded neat but felt like overkill for my little recipe aggregator site. It would be like launching a home cleaning startup because your bathroom was dirty. It might solve the problem, but the solution was bigger than the issue it addressed.

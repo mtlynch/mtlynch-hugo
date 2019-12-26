@@ -44,7 +44,6 @@ It was tempting to scrap everything in favor of a machine learning solution, but
 
 Then, it struck me: what if ingredient parsing *was* the business? If this was a problem for me, then surely other developers struggled with it as well. Hopefully, some of them made money and would give some of said money to me if I solved their problem. Thus, the idea was born for [Zestful](https://zestfuldata.com/), my ingredient-parsing service.
 
-
 {{< img src="zestful-logo.png" alt="Zestful logo" caption="[Zestful](https://zestfuldata.com/), a recipe ingredient parsing service" maxWidth="500px" hasBorder="True" linkUrl="https://zestfuldata.com/" >}}
 
 ## The MVP that wasn't
@@ -104,7 +103,6 @@ One example was my [Terms of Use](https://zestfuldata.com/terms-of-service). Wha
 ## Shut up and launch
 
 For each item on my task list, I asked myself, "What happens if I launch without this?" After treating each task with the same ruthless skepticism as my Terms of Use, my true launch checklist emerged. Less than 24 hours later, I [published Zestful to RapidAPI](https://rapidapi.com/zestfuldata/api/recipe-and-ingredient-analysis), an API marketplace. My service was live!
-
 
 {{< img src="rapidapi-listing.png" alt="Screenshot of RapidAPI listing" caption="[Zestful listing](https://rapidapi.com/zestfuldata/api/recipe-and-ingredient-analysis) on the RapidAPI marketplace" maxWidth="800px" hasBorder="True" >}}
 

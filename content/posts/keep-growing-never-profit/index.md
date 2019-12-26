@@ -131,7 +131,6 @@ People don't order any of those things from Amazon. The issue extends far beyond
 
 In evaluating business ideas now, I think about revenue from start to finish. For me to receive a dollar of revenue, what sequence of events must occur? Had this been part of my evaluation process for Is It Keto, hopefully I would have spotted the red flag when I got to, "And then the customer asks Amazon to mail them [a head of lettuce](https://amzn.to/2WgKYLD) so that I can collect my affiliate fee."
 
-
 {{< img src="amazon-lettuce.jpg" alt="Google Analytics screenshot" caption="For only about 10x what you'd pay at the supermarket, Amazon will mail you [a single head of lettuce](https://amzn.to/2WgKYLD)." maxWidth="800px" hasBorder="True" >}}
 
 ## What I wish I had known
@@ -139,7 +138,6 @@ In evaluating business ideas now, I think about revenue from start to finish. Fo
 ### Search engines have a substantial lag
 
 Today, if you ask Google ["are cheese whisps keto?"](http://www.google.com/search?q=are%20cheese%20whisps%20keto%3F)  it responds with a list of results that all fail to answer the question.
-
 
 {{< img src="cheese-whisps.jpg" alt="Google Analytics screenshot" caption="Google results for [\"are cheese whisps keto?\"](http://www.google.com/search?q=are%20cheese%20whisps%20keto%3F)" maxWidth="450px" hasBorder="True" >}}
 

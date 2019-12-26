@@ -109,7 +109,6 @@ Maybe the problem was that too few users realized I was selling meal plans. Ther
 
 To drive more users to the sales page, I created self-ads to replace the ads I'd been running for Google AdSense:
 
-
 {{< img src="self-ads.jpg" alt="Screenshot of self-ad on Gatorade Zero page" caption="I added self-ads for my meal plans to [other Is It Keto pages](https://isitketo.org/gatorade-zero)" maxWidth="800px" hasBorder="True" >}}
 
 I tuned these ads to show 60% of the time at first and increased them to 100% some weeks to maximize visitors. I couldn't tell if it had any because there was so much variance in the traffic:
@@ -182,7 +181,6 @@ According to my logging, 3.7% of users clicked the "Buy now" button when I broug
 ### I split up my sales pages
 
 After concluding that there was nothing magical about my smoke test page, I continued polishing my sales page. My most recent change has been to split up each meal plan into its own page so that I can include more details:
-
 
 {{< img src="tex-mex-v3.jpg" alt="Screenshot of latest Tex-Mex sales page" caption="Putting each meal plan into its own [individual, more detailed page](https://isitketo.org/meal-plans/tex-mex/)" maxWidth="800px" hasBorder="True" >}}
 

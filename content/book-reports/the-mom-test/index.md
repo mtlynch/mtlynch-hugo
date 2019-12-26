@@ -9,7 +9,6 @@ A quick, practical guide to interviewing customers during the early stages of a 
 
 I expected basic advice about how you shouldn't ask customers leading questions, but Fitzpatrick goes much more in-depth. The book made me recognize weaknesses in my approach to interviewing users and provided interesting perspectives about obtaining unbiased, actionable feedback from customers.
 
-
 <!--more-->
 
 ---

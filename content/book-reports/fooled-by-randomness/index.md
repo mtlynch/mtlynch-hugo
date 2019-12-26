@@ -7,7 +7,6 @@ purchase_url: https://amzn.to/2x2sPT3
 
 The book contains many interesting examples of common biases and logical fallacies, but it's buried in a lot of bluster and fluff about how smart the author is. While it was likely groundbreaking when it was published in 2004, its ideas have since permeated into the mainstream. Reading it in 2018, the ideas feel neither novel nor original. [*Thinking Fast and Slow*](https://amzn.to/2oXDdaZ) covers the same material with more depth and better writing.
 
-
 <!--more-->
 
 ---

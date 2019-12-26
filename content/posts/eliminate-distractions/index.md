@@ -72,7 +72,6 @@ I initially joined Twitter to share my blog posts and find other interesting con
 
 Eliminating irrelevant accounts cleared most of the low-quality content, and I eradicated the remainder by adding [muted words](https://twitter.com/settings/muted_keywords):
 
-
 {{< img src="twitter-muted.jpg" alt="Twitter's trending topics" caption="Use [muted words](https://twitter.com/settings/muted_keywords) to filter out current events and topics you're uninterested in engaging with on Twitter." maxWidth="600px" >}}
 
 Twitter evolves quickly, so this is a continuous process. When too much of my feed fills with uninteresting content, I review my follow list for accounts whose signal-to-noise ratio is poor and look for new muted words.
@@ -82,7 +81,6 @@ Twitter evolves quickly, so this is a continuous process. When too much of my fe
 ### Ignore "hot questions"
 
 StackOverflow offers valuable solutions to many programming roadblocks. Unfortunately, they also try to steal my focus and drag me deeper into their platform. Their sidebar is teeming with distractions: "hot questions," blog posts, and job listings. The "hot questions" are especially pernicious because StackOverflow no doubt fills this panel with the questions that attract the most clicks.
-
 
 {{< img src="stackoverflow-sidebars.jpg" alt="Twitter's trending topics" caption="&ldquo;Hot Questions&rdquo; on StackOverflow distract you from the problem you're trying to solve" maxWidth="800px" >}}
 
@@ -102,7 +100,6 @@ This technique works on many sites, though it does occasionally break after rede
 
 StackOverflow offers a native setting to disable "Hot Questions," though there's no option to hide the other distracting sidebar panels. To suppress "Hot Questions" through app settings, go to [Site Settings > Preferences](https://stackoverflow.com/users/preferences/) and check the box for "Hide Hot Network Questions":
 
-
 {{< img src="stackoverflow-settings.jpg" alt="Screenshot of StackOverflow's settings page" caption="Click \"Hide Hot Network Questions\" in [StackOverflow settings](https://stackoverflow.com/users/preferences/) to eliminate distracting questions." maxWidth="700px" hasBorder="True" >}}
 
 ## Email
@@ -112,7 +109,6 @@ StackOverflow offers a native setting to disable "Hot Questions," though there's
 Gmail forces you to see new messages in your inbox before you do anything else in the app. If there's information you need to find in an old email, you can't access it without risking distraction from new emails.
 
 Fortunately, there's a tool that solves this problem: [Inbox When Ready](https://inboxwhenready.org/). It allows you to access Gmail's standard functionality but hides new messages until you explicitly choose to see them. You can still allow messages to show up in your inbox immediately when they match certain rules (e.g., mail from a particular sender or with specific keywords).
-
 
 {{< img src="inbox-when-ready.jpg" alt="Gmail screenshot with Inbox When Ready enabled" caption="When an email merits a thoughtful response, I create a task for it in my [to-do list app](https://nirvanahq.com/)" maxWidth="800px" hasBorder="True" >}}
 
@@ -142,7 +138,6 @@ If you currently manage tasks through your inbox, the prospect of maintaining a 
 
 Before extracting my to-do list from my inbox, I never realized the power those emails held over me. Any time I checked my inbox, every message was sitting there, begging for my attention. Now, when an email requires a non-urgent response, I create a task and schedule my reply for an appropriate time. It gives me the freedom to forget about the email because I know my to-do list will remind me when the time is right.
 
-
 {{< img src="nirvana-tasks.jpg" alt="Chat settings in Gmail" caption="When an email merits a thoughtful response, I create a task for it in my [to-do list app](https://nirvanahq.com/)" maxWidth="785px" hasBorder="True" >}}
 
 {{<notice type="info">}}
@@ -157,7 +152,6 @@ I send all of my texts through Hangouts because it allows me to type on my deskt
 
 This is an easy problem to solve. Go to the [chat settings in Gmail](https://mail.google.com/mail/u/0/#settings/chat) and select "Chat off."
 
-
 {{< img src="gmail-disable-chat.jpg" alt="Chat settings in Gmail" caption="Disabling chat in [Gmail settings](https://mail.google.com/mail/u/0/#settings/chat)" maxWidth="821px" hasBorder="True" >}}
 
 Now, Hangouts messages will not appear in your Gmail, but you can still access Hangouts through its dedicated URL: [https://hangouts.google.com](https://hangouts.google.com).
@@ -167,7 +161,6 @@ Now, Hangouts messages will not appear in your Gmail, but you can still access H
 One way I've found to curb my bad habits is to put obstacles in front of them. For example, I resist the temptation to eat junk food by not keeping any of it in my house. It doesn't completely protect me from poor eating because intense cravings can always drive me to the store. But 99% of the time, laziness prevents me from making the unhealthy choice.
 
 Free of obstacles, it's painfully easy for me to indulge in social media on my computer. I get bored, hit Ctrl+T to open a new tab, then visit Facebook, Twitter, or reddit.
-
 
 {{< img src="typewriter.png" alt="Chat settings in Gmail" caption="\"Typewriter\" by [xkcd](https://xkcd.com/477/)" maxWidth="443px" >}}
 
@@ -219,11 +212,9 @@ I originally met my friend [David Toth](https://twitter.com/jupiterunknown) at a
 
 David loves meeting other tech founders, but he only has finite time to do it. He found that his in-person interactions were almost always richer and longer-lasting than relationships he formed online, so he dedicates nearly all of his networking time to real-life events.
 
-
 {{< img src="indiehackers-august.jpg" alt="Group photo of Indie Hackers meetup" caption="Photo from a recent [Indie Hackers Western Mass Meetup](https://www.meetup.com/nerdsummit/events/266162598/), which David and I now co-organize" maxWidth="650px" >}}
 
 David's philosophy made complete sense to me. I'm still in touch with several people today after meeting them at a meetup or conference years ago for only 30 minutes. That's not true of anyone I interact with on Twitter or reddit. In my social media history, there are countless examples of me spending an hour or more to engage with someone, but now I have no memory of the conversation and am not in touch with the person at all.
-
 
 {{< img src="indiehackers-feedback.jpg" alt="Chat settings in Gmail" caption="I probably spent 90+ minutes testing this user's app and giving him [feedback on Indie Hackers](https://www.indiehackers.com/product/libate/-L_2noyl2XS5xGWrIwTp?commentId=-L_QMW3ruNo_97Jevk4T). I barely remember the interaction and doubt that he remembers me." maxWidth="450px" >}}
 

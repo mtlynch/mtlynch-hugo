@@ -9,7 +9,6 @@ An insider's story about Facebook in the years leading up to its IPO. It's surpr
 
 An engaging read, but the narrator is painfully obnoxious.
 
-
 <!--more-->
 
 ---

@@ -9,7 +9,6 @@ I wish that I had found this book nine years ago. It taught me a great deal abou
 
 Unfortunately, much of the content aged poorly. Published in 2010, Walling intentionally kept the book pragmatic, recommending specific tools and strategies that were popular at the time. Reading it in 2019, many of the services he recommends are either irrelevant or dead. It would be nice to see an updated edition, which [Walling has suggested](https://news.ycombinator.com/item?id=18202347) is a possibility.
 
-
 <!--more-->
 
 ---

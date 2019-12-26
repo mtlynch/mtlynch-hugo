@@ -46,7 +46,6 @@ Work Diary creeps me out. I never require freelancers to run it, but Lizzie chos
 
 In early screenshots, she was writing a document about mantras in Hinduism. It definitely had nothing to do with my project, but she was charging me for it.
 
-
 {{< img src="workdiary-2.jpg" alt="Screenshot of Lizzie R's WorkDiary history" caption="Lizzie bills me for time writing an article on mantras for another client" maxWidth="800px" >}}
 
 Later, she switched gears and started writing an article about tarot cards. Unless there's a new trend in the keto world that integrates tarot readings into food selection, this didn't seem like it related to my project either.
@@ -111,7 +110,6 @@ The scam seemed so clumsy and obvious that I feared it was step one of a more el
 
 In movies, the con-man always lets their victim *think* that they've uncovered the scam, but allowing the victim to expose the dummy fraud is all part of the *actual* fraud. Then, just as they believe they've gained the upper hand, the victim falls face-first into the real scam. Was there another layer of deceit here?
 
-
 {{< img src="oceans-eleven.jpg" alt="Still of George Clooney in Ocean's Eleven" caption="\"" maxWidth="800px" >}}
 
 ## How did Upwork miss this?
@@ -144,7 +142,6 @@ for every serving **[Ed: Actual net carb count is 39 g]**. In addition, it has n
 variations of Coca Cola like Coke Zero or the Diet Coke.
 
 The grammar was decent, but it further confirmed Lizzie was not a native speaker. The loudest giveaway was the definite article before "Diet Coke." Americans never say, "I'd love a refreshing glass of **the** Diet Coke."
-
 
 {{< img src="three-glasses.jpg" alt="Still of Inglorious Basterds bar shootout scene" caption="\"" maxWidth="270px" >}}
 

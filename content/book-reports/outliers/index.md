@@ -9,7 +9,6 @@ Like all Gladwell books, *Outliers* does an excellent job of building an engagin
 
 While it provides a nice collection of interesting stories, I didn't feel like *Outliers* delivered on any meaningful overarching point.
 
-
 <!--more-->
 
 I remember loving Malcolm Gladwell books when I was in college. My friends and I excitedly discussed *The Tipping Point* and *Blink* because they made dry scientific studies seem cool and interesting.

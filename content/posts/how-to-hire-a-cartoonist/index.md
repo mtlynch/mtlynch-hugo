@@ -17,7 +17,6 @@ I had just completed a passionate blog post.
 
 Too passionate, maybe, as I had written over 8,000 words. That's 1000x longer than the average *Buzzfeed* article. Worse, it was a giant wall of text with nary a visual element to break it up aside from some screenshots and a few tables. Ooh, exciting tables!
 
-
 {{< img src="bad-arguments-cover.jpg" alt="An Illustrated Book of Bad Arguments book cover" caption="[*An Illustrated Book of Bad Arguments*](http://amzn.to/2jy2vND) by Ali Almossawi" maxWidth="270px" align="right" linkUrl="http://amzn.to/2jy2vND" >}}
 
 I had recently read [*An Illustrated Book of Bad Arguments*](http://amzn.to/2jy2vND). It explained the various classes of logical fallacies in a beautiful children's book style. I was impressed at how well it used illustrations to make dry academic ideas fun and easy to consume.
@@ -55,30 +54,25 @@ For additional context, I linked to the [section](https://mtlynch.io/human-code-
 
 ### Sofia's submission
 
-
 {{< img src="sample-sofia.jpg" alt="Sample submission from Sofia" caption="Cartoon submission from Sofia" maxWidth="500px" >}}
 
 Sofia was the first artist to submit her sample. I liked it. The animals were *just* human enough to be funny, while still being cute and whimsical. She nailed the expressions. The cat looked kind of snobby, which was fitting because it represented me.
 
 ### Manel's submission
 
-
 {{< img src="sample-manel.jpg" alt="Sample submission from Manel" caption="Cartoon submission from [Manel Sto Nino](https://www.upwork.com/freelancers/~0146ddb5612a5aaaca)" maxWidth="500px" >}}
 
 Manel's submission was impressive in how *closely* it matched the style of *An Illustrated Book of Bad Arguments*. Her first sketch was even more on the nose, but I asked her to tone it down a bit so that it didn't look like we were blatantly ripping off the book.
 
-
 {{< img src="boba-appeal-to-ignorance.png" alt="Appeal to Ignorance image" caption="\"Appeal to Ignorance,\" from [*An Illustrated Book of Bad Arguments*](http://amzn.to/2jy2vND)" maxWidth="400px" >}}
 
 ### Christine's submission
-
 
 {{< img src="sample-christine.jpg" alt="Sample submission from Christine" caption="Cartoon submission from [Christine Elefsiniotis](https://www.facebook.com/christinaillustration/)" maxWidth="500px" >}}
 
 Christine's was the most elaborate. We learn a great deal about the two characters and their relationship just from the little details of how they're dressed, their expressions, and the items around them. It felt like a *New Yorker* cartoon.
 
 ### Winner: Loraine's submission
-
 
 {{< img src="sample-loraine.png" alt="Sample submission from Loraine" caption="Cartoon submission from [Loraine Yow](https://www.linkedin.com/in/lolo-ology/)" maxWidth="500px" >}}
 
@@ -157,7 +151,6 @@ I know! It's a lot. Especially for a blog like mine that doesn't really make mon
 But I had to break up the text somehow. It was either this, pay for stock photos, or spend hours trawling through free stock photos that *kind of* fit.
 
 I did briefly attempt to use stock photos, but it felt a bit like this:
-
 
 {{< img src="pawel-janiak-114499.jpg" alt="Person searching" caption="Photo by [Pawel Janiak](https://unsplash.com/photos/dxFi8Ea670E?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)" maxWidth="750px" >}}
 

@@ -34,7 +34,6 @@ This tutorial uses free, open-source tools, and you can run them without registe
 
 The tool that makes this testing possible is [Cypress](https://cypress.io/), a recent entrant to the field of browser automation. It's an [open-source](https://github.com/cypress-io/cypress) end-to-end testing framework with a [full-time team](https://www.cypress.io/about/#our-team) actively developing it. Their business model is similar to [Docker's](https://www.docker.com/) in that both companies publish free-open source tools and fund development by selling managed services for those tools.
 
-
 {{< img src="cypress-logo-dark.png" alt="Cypress logo" caption="[Cypress](https://cypress.io) is an open-source tool for automated web app testing." maxWidth="403px" linkUrl="https://cypress.io" >}}
 
 I first discovered Cypress last year after seeing [Gleb Bahmutov](https://glebbahmutov.com/) demonstrate it at a regional software conference. When he mentioned that Cypress had no dependencies on [Selenium](https://www.seleniumhq.org/), I was intrigued. All my previous experience with end-to-end testing was awful, and Selenium was always at the root of my pain.
@@ -255,7 +254,6 @@ Cypress creates a video recording of every test run. This is my favorite feature
 ## Test failure screenshots
 
 Above, I showed you a test that passed. What happens when a Cypress test fails? It still generates a video of the test run, but it also outputs a screenshot showing the assertion that failed:
-
 
 {{< img src="detects angry sentiment (failed).png" alt="Cypress screenshot output on failure" caption="Screenshot that Cypress generated when my test failed (Cypress expected the word \"Furious\" but instead found \"Angry\")" maxWidth="800px" hasBorder="True" >}}
 

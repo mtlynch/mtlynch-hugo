@@ -341,7 +341,6 @@ npm run dev
 
 You'll notice that when you navigate to [https://localhost:3600/about](https://localhost:3600/about), the build time and the load time roughly match one another. That's because when you run `npm run dev`, Nuxt uses server-side rendering to create the page just in time.
 
-
 {{< img src="about-ssr.jpg" alt="Screenshot of About page rendered with server-side rendering" caption="`npm run dev` renders pages as the user requests them, so build times and load times match." maxWidth="650px" hasBorder="True" >}}
 
 Unlike pre-rendering, which generates the page once and keeps serving that same page, server-side rendering generates a fresh version of the page each time the user visits.

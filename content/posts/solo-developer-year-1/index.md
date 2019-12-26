@@ -28,11 +28,9 @@ On February 1st, 2018, I [quit my job](/why-i-quit-google) as a software enginee
 
 ## How I made and spent money
 
-
 {{< img src="bench-2018.jpg" alt="Profit and loss for 2018" caption="Profit and loss chart via [Bench](https://bench.co/)." maxWidth="793px" hasBorder="True" >}}
 
 One way of looking at the chart is that I lost $21k in a single year. Alternate interpretation: I *grew profits* by almost $1k each month!  If this trend continues, I should be fabulously wealthy quite soon.
-
 
 {{< img src="2019-projected.jpg" alt="Projected earnings for 2019" caption="Profit and loss through 2019, projected" maxWidth="793px" hasBorder="True" >}}
 
