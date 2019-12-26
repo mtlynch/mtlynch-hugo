@@ -14,14 +14,11 @@
 {{ end }}
 
 {{ if $src }}
-  <figure>
+  <figure {{ if $align }}class="align-{{ $align }}"{{ end }}>
     <a href="{{ if $linkUrl }}{{ $linkUrl }}{{ else }}{{ $src }}{{ end }}">
       <img
         {{ if $maxWidth }}style="max-width: {{ $maxWidth }}"{{ end }}
-        {{ if or ($hasBorder) ($align) }}class="
-          {{ if $hasBorder }}img-border{{ end }}
-          {{ if $align }}align-{{ $align }}{{ end }}
-          "{{ end }}
+        {{ if $hasBorder }}class="img-border"{{ end }}
         src="{{ $src }}" alt="{{$altText}}"/>
     </a>
     <figcaption><p>{{ $caption | markdownify }}</p></figcaption>

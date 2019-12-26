@@ -10,14 +10,14 @@
 @media screen and (min-width: 768px) {
   .align-left {
     float: left;
-    margin-right: 1em;
+    margin-right: 1em !important;
   }
 }
 
 @media screen and (min-width: 768px) {
   .align-right {
     float: right;
-    margin-left: 1em;
+    margin-left: 1em !important;
   }
 }
 
