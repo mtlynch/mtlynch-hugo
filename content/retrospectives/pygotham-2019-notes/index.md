@@ -1,6 +1,8 @@
 ---
 title: Notes from PyGotham 2019
 description: My notes and self-critiques from speaking at PyGotham.
+images:
+- /images/retrospectives/pygotham-2019-notes/pygotham-logo.svg
 date: '2019-10-31'
 ---
 

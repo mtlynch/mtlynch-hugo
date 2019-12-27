@@ -1,6 +1,8 @@
 ---
 title: Recovery Month
 description: How I doubled revenues by doing absolutely nothing.
+images:
+- images/retrospectives/2019/05/amazon-earnings.jpg
 date: '2019-05-08'
 ---
 

@@ -43,6 +43,16 @@ jobs:
             - tests
             - firebase.json
             - .firebaserc
+  check-seo-metadata:
+    <<: *defaults
+    docker:
+      - image: circleci/golang:1.13
+    steps:
+      - attach_workspace:
+          at: ./
+      - run:
+          name: Check that SEO meta tags rendered properly
+          command: tests/check-seo-metadata
   check-google-analytics-token:
     <<: *defaults
     docker:
@@ -70,6 +80,9 @@ workflows:
       - check-whitespace
       - lint-markdown
       - build
+      - check-seo-metadata:
+          requires:
+            - build
       - check-google-analytics-token:
           requires:
             - build

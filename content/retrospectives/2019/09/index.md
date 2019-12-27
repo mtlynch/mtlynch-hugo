@@ -1,6 +1,8 @@
 ---
 title: Is It Keto - Month 8
 description: Perhaps I should pay more attention to my only successful project.
+images:
+- /images/retrospectives/2019/09/amazon-affiliates.jpg
 date: '2019-09-06'
 ---
 

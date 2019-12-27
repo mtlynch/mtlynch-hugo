@@ -1,6 +1,8 @@
 ---
 title: I'm Probably Procrastinating
 description: I need to spend more time talking to customers.
+images:
+- /images/retrospectives/2019/12/revenue-graph.jpg
 date: '2019-12-05'
 ---
 

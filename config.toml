@@ -24,6 +24,9 @@ disqusShortname = "silly-bits"
 [permalinks]
     posts = "/:filename/"
 
+[social]
+twitter = "deliberatecoder"
+
 [params]
     author = "Michael Lynch"
     info = "By day, a simple software engineer. By night, also a software engineer."
