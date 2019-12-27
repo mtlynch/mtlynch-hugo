@@ -40,6 +40,7 @@ jobs:
           root: ./
           paths:
             - public
+            - tests
             - firebase.json
             - .firebaserc
   check-google-analytics-token:
