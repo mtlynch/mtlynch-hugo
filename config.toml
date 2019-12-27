@@ -16,14 +16,7 @@ disqusShortname = "silly-bits"
 
 [markup]
   [markup.highlight]
-    codeFences = true
-    hl_Lines = ""
-    lineNoStart = 1
-    lineNos = false
-    lineNumbersInTable = true
-    noClasses = true
     style = "rrt"
-    tabWidth = 4
   [markup.goldmark.renderer]
     # Allow Markdown to include embedded HTML.
     unsafe= true
