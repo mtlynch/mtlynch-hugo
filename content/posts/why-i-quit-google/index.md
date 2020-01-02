@@ -175,8 +175,8 @@ But I am indeed an idiot with no idea.
 
 My plan is to try different projects for a few months each to see if any of them catch on, for example:
 
-* Continue working on [KetoHub](/tags/#ketohub) to see if I can make it profitable
-* Build a business on top of Sia, a distributed storage technology I've [written about frequently](/tags/#sia)
+* Continue working on [KetoHub](/tags/ketohub) to see if I can make it profitable
+* Build a business on top of Sia, a distributed storage technology I've [written about frequently](/tags/sia)
 * Spend more time writing, and look for ways to earn money from it
 
 Google was a great place to work, and I learned valuable skills during my time there. Leaving was difficult because I had more to learn, but there will always be employers like Google. I won't always have the freedom to start my own company, so I look forward to seeing where this takes me.

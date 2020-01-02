@@ -57,7 +57,7 @@ The steps in this guide require about **20 minutes** of active time. However, th
 
 {{< img src="sia-logo.png" alt="Sia logo" maxWidth="260px" align="left" >}}
 
-I use **Sia** in this solution to provide backend storage for the web app. I've written [a few posts](/tags/#sia) about Sia previously, as it's one of my favorite new technologies. [Sia](https://sia.tech) is a decentralized file storage network. Users can connect to Sia and [rent out their unused disk space](/sia-via-docker/) to earn money. Prices on the Sia network are very low right now, which is how you can build a cloud storage solution and pay so little for disk space.
+I use **Sia** in this solution to provide backend storage for the web app. I've written [a few posts](/tags/sia) about Sia previously, as it's one of my favorite new technologies. [Sia](https://sia.tech) is a decentralized file storage network. Users can connect to Sia and [rent out their unused disk space](/sia-via-docker/) to earn money. Prices on the Sia network are very low right now, which is how you can build a cloud storage solution and pay so little for disk space.
 
 ### Nextcloud
 
