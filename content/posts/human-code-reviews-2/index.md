@@ -10,7 +10,7 @@ discuss_urls:
   hacker_news: https://news.ycombinator.com/item?id=15663966
 date: '2017-11-09'
 images:
-- images/human-code-reviews-2/cover-part-two.png
+- human-code-reviews-2/cover-part-two.png
 ---
 
 {{< img src="cover-part-two.png" >}}

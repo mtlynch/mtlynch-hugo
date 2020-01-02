@@ -13,7 +13,7 @@ description: "In today\u2019s post, I\u2019m going to show you how to set up you
   \ lower costs."
 date: '2017-08-06'
 images:
-- images/sia-nextcloud/nextcloud-complete.png
+- sia-nextcloud/nextcloud-complete.png
 ---
 
 In today's post, I'm going to show you how to set up your own cloud storage web app, similar to Dropbox or Google Drive, but with substantially lower costs. This solution provides cloud storage at ~$0.60 per TB/month. By comparison, the same storage would cost $8.25 per month on Dropbox or $10 per month on Google Drive.

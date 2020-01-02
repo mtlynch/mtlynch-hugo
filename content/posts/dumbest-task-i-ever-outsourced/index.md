@@ -10,7 +10,7 @@ discuss_urls:
   hacker_news: https://news.ycombinator.com/item?id=20685783
 date: '2019-08-13'
 images:
-- images/dumbest-task-i-ever-outsourced/cover.jpg
+- dumbest-task-i-ever-outsourced/cover.jpg
 ---
 
 {{< img src="cover.jpg" alt="The Dumbest Task I Ever Outsourced (cover image)" maxWidth="1000px" >}}

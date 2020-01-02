@@ -13,7 +13,7 @@ discuss_urls:
   reddit: https://www.reddit.com/r/programming/comments/91heln/resurrecting_a_dead_library_resuscitation/
 date: '2018-07-24'
 images:
-- images/resurrecting-1/cover.jpg
+- resurrecting-1/cover.jpg
 ---
 
 When I arrived on the scene, it wasn't a pretty sight.

@@ -9,7 +9,7 @@ description: A step-by-step guide from zero to mining automation
 lastmod: '2018-01-27T21:47:00-05:00'
 date: '2017-05-20'
 images:
-- images/windows-sia-mining/luxor-mining-pool.png
+- windows-sia-mining/luxor-mining-pool.png
 ---
 
 {{<notice type="warning">}}

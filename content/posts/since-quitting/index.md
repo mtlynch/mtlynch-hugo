@@ -11,7 +11,7 @@ tags:
 - google
 date: '2018-05-29'
 images:
-- images/since-quitting/so-stressed.jpg
+- since-quitting/so-stressed.jpg
 ---
 
 I worked as a software engineer for Google from 2014 to 2018. On February 1st, I [quit my job](/why-i-quit-google/) and formed my own single-person software company.

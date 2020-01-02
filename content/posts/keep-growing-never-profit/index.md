@@ -10,7 +10,7 @@ discuss_urls:
   reddit: https://redd.it/bvap1u
 date: '2019-05-31'
 images:
-- images/keep-growing-never-profit/cover.jpg
+- keep-growing-never-profit/cover.jpg
 ---
 
 {{< img src="cover.jpg" alt="How to Keep Growing and Never Turn a Profit (cover image)" maxWidth="1000px" >}}

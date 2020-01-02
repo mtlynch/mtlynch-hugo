@@ -11,7 +11,7 @@ discuss_urls:
   hacker_news: https://news.ycombinator.com/item?id=14568558
 date: '2017-06-16'
 images:
-- images/stole-siacoins/american-psycho.jpg
+- stole-siacoins/american-psycho.jpg
 ---
 
 ## A seedy reddit post

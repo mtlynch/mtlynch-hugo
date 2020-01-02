@@ -8,7 +8,7 @@ tags:
 description: Taking my development VMs to the next level
 date: '2017-05-07'
 images:
-- images/building-a-vm-homelab/vm-server-parts.jpg
+- building-a-vm-homelab/vm-server-parts.jpg
 ---
 
 ## Overview

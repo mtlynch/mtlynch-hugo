@@ -9,7 +9,7 @@ tags:
 description: An automated peer to peer lending bot
 date: '2016-11-26'
 images:
-- images/prosperbot/prosperbot-frontend.png
+- prosperbot/prosperbot-frontend.png
 ---
 
 ## Overview

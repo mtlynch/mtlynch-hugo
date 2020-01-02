@@ -11,7 +11,7 @@ discuss_urls:
   hacker_news: https://news.ycombinator.com/item?id=14644539
 date: '2017-06-27'
 images:
-- images/greenpithumb/greenpithumb-side-full.jpg
+- greenpithumb/greenpithumb-side-full.jpg
 ---
 
 ## Introduction

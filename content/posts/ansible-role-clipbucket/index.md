@@ -7,7 +7,7 @@ tags:
 description: An Ansible role love story
 date: '2016-09-06'
 images:
-- images/ansible-role-clipbucket/clipbucket-install-complete.png
+- ansible-role-clipbucket/clipbucket-install-complete.png
 ---
 
 ## Overview

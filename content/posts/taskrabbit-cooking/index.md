@@ -7,7 +7,7 @@ tags:
 description: Hiring a personal chef on the cheap
 date: '2017-01-11'
 images:
-- images/taskrabbit-cooking/IMG_20161115_212108.jpg
+- taskrabbit-cooking/IMG_20161115_212108.jpg
 ---
 
 ## Overview

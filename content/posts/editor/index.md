@@ -7,7 +7,7 @@ tags:
 description: Investing in lifelong writing skills paid dividends immediately.
 date: '2017-07-25'
 images:
-- images/editor/stole-siacoin-stats.png
+- editor/stole-siacoin-stats.png
 ---
 
 ## A year in blogging

@@ -13,7 +13,7 @@ discuss_urls:
 lastmod: '2019-05-02T19:39:00-04:00'
 date: '2019-05-01'
 images:
-- images/painless-web-app-testing/cover.jpg
+- painless-web-app-testing/cover.jpg
 ---
 
 {{< img src="cover.jpg" alt="A reusable template for testing web apps (cover image)" maxWidth="1000px" >}}

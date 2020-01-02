@@ -12,7 +12,7 @@ description: "Lately, I\u2019ve been reading articles about best practices for c
   \ almost every..."
 date: '2017-10-12'
 images:
-- images/human-code-reviews-1/code-reviews-cover1.png
+- human-code-reviews-1/code-reviews-cover1.png
 ---
 
 Lately, I've been reading articles about best practices for code reviews. I notice that these articles focus on finding bugs to the exclusion of almost every other component of a review. Communicating issues you discover in a constructive and professional way? Irrelevant! Just identify all the bugs, and the rest will take care of itself.

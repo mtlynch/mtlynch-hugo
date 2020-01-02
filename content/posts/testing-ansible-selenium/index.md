@@ -7,7 +7,7 @@ tags:
 description: A way to perform strong tests on Ansible web app roles
 date: '2016-09-25'
 images:
-- images/testing-ansible-selenium/bunny-film-error.png
+- testing-ansible-selenium/bunny-film-error.png
 ---
 
 ## Overview

@@ -12,7 +12,7 @@ discuss_urls:
   reddit: https://www.reddit.com/r/programming/comments/95219m/resurrecting_a_dead_library_stabilization/
 date: '2018-08-06'
 images:
-- images/resurrecting-2/cover.jpg
+- resurrecting-2/cover.jpg
 ---
 
 In this post, I demonstrate how to retrofit automated tests onto an untested legacy library.

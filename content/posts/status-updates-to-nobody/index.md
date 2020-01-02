@@ -9,7 +9,7 @@ discuss_urls:
   hacker_news: https://news.ycombinator.com/item?id=20274079
 date: '2019-06-25'
 images:
-- images/status-updates-to-nobody/cover.jpg
+- status-updates-to-nobody/cover.jpg
 ---
 
 {{< img src="cover.jpg" alt="Staying Motivated by Sending Status Updates to Nobody (cover image)" maxWidth="1000px" >}}

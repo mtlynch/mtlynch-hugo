@@ -12,7 +12,7 @@ description: How I used safe techniques to refactor a legacy codebase and minimi
   the risk of regressions
 date: '2018-08-20'
 images:
-- images/resurrecting-3/cover.jpg
+- resurrecting-3/cover.jpg
 ---
 
 I love refactoring. Nothing satisfies me more than untangling spaghetti code to reveal its underlying logic in a clear, intuitive way.

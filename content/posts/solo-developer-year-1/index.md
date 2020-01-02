@@ -18,7 +18,7 @@ discuss_urls:
   indie_hackers: https://www.indiehackers.com/mtlynch/post/c514bf6b33
 date: '2019-02-01'
 images:
-- images/solo-developer-year-1/cover.jpg
+- solo-developer-year-1/cover.jpg
 ---
 
 {{< img src="cover.jpg" alt="My first year as a solo developer (cover image)" maxWidth="1000px" >}}

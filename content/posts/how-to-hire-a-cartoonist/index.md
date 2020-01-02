@@ -9,7 +9,7 @@ discuss_urls:
   hacker_news: https://news.ycombinator.com/item?id=16186049
 date: '2018-01-19'
 images:
-- images/how-to-hire-a-cartoonist/mma-sketch.png
+- how-to-hire-a-cartoonist/mma-sketch.png
 ---
 
 I had just completed a passionate blog post.

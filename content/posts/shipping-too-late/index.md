@@ -12,7 +12,7 @@ discuss_urls:
   indie_hackers: https://www.indiehackers.com/forum/how-i-tricked-myself-into-shipping-too-late-ae24d5e356
 date: '2018-09-11'
 images:
-- images/shipping-too-late/rejection.jpg
+- shipping-too-late/rejection.jpg
 ---
 
 Many software founders fail for a simple reason: they ship too late. They spend years developing a product in a vacuum only to see it crumble the first time a real customer touches it.
