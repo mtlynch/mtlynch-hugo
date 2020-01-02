@@ -16,7 +16,7 @@ Thanks to everyone who read the post and who reached out via email and comments.
 
 ## Introducing Space Duck
 
-In yesterday's post, I mentioned that one of my post-Google ideas was to build on top of [Sia](/tags/#sia), a decentralized storage network. I haven't started any software projects yet, but as I research the technology, I've been keeping my thoughts in an additional blog called [Space Duck](https://blog.spaceduck.io/). So far, I've only written about Sia, but I will ultimately cover all of its competitors as well.
+In yesterday's post, I mentioned that one of my post-Google ideas was to build on top of [Sia](/tags/sia), a decentralized storage network. I haven't started any software projects yet, but as I research the technology, I've been keeping my thoughts in an additional blog called [Space Duck](https://blog.spaceduck.io/). So far, I've only written about Sia, but I will ultimately cover all of its competitors as well.
 
 It will differ a bit from mtlynch.io in that it will cater to a more specific audience. On mtlynch.io, I try to make my posts interesting and accessible to anyone interested in the topics I write about. In contrast, Space Duck will assume the reader has some familiarity with cryptocurrencies and distributed storage. If this sounds like a blog you'll like, [give it a read](https://blog.spaceduck.io) and [sign up for the mailing list](http://eepurl.com/dlKb1L).
 

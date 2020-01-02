@@ -115,7 +115,7 @@ I put the project in maintenance mode in September after several months of [unsu
 
 {{< img src="spaceduck-screenshot.jpg" alt="Screenshot of Space Duck website" maxWidth="600px" hasBorder="True" >}}
 
-Space Duck was my exploratory quest to build something on top of Sia, [a decentralized storage technology](/tags/#sia).
+Space Duck was my exploratory quest to build something on top of Sia, [a decentralized storage technology](/tags/sia).
 
 After running a [series of experiments](https://blog.spaceduck.io/load-test-wrapup/), I realized Sia [was not yet ready](/since-quitting/#failed-project-space-duck) to support any of my business ideas, so I shelved Space Duck in April.
 
@@ -131,7 +131,7 @@ After running a [series of experiments](https://blog.spaceduck.io/load-test-wrap
 
 {{< img src="ketohub-screenshot.jpg" alt="Screenshot of KetoHub website" maxWidth="700px" hasBorder="True" >}}
 
-KetoHub is a project I [started last year](/tags/#ketohub). It aggregates keto recipes from popular blogs and makes them searchable by ingredient.
+KetoHub is a project I [started last year](/tags/ketohub). It aggregates keto recipes from popular blogs and makes them searchable by ingredient.
 
 I developed it on and off at the beginning of the year but put it in maintenance mode when I realized I was managing too many projects. I still have ideas for monetizing it, but each requires a considerable time investment and has a low probability of success. Now, it's mainly a complement to Is It Keto.
 

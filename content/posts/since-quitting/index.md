@@ -90,7 +90,7 @@ I'm now more conservative about taking on projects. Even if they seem small, it 
 
 ## Failed project: Space Duck
 
-My first business idea was to build a service on top of Sia, a decentralized storage platform I've [written about frequently](/tags/#sia).
+My first business idea was to build a service on top of Sia, a decentralized storage platform I've [written about frequently](/tags/sia).
 
 Sia's goal is to make data storage a commodity so that anyone can sell it. It promises prices that are 1/10th of Amazon's or Google's rates. Sia's technology is still under the radar because few people understand how to use it, much less how to build services on top of it.
 
