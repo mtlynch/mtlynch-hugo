@@ -2,7 +2,7 @@
 title: Is It Keto - Month 9
 description: I'm ready to take bigger bets.
 images:
-- /images/retrospectives/2019/10/adsense.jpg
+- /retrospectives/2019/10/adsense.jpg
 date: '2019-10-05'
 ---
 

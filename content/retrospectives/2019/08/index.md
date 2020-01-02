@@ -2,7 +2,7 @@
 title: What Got Done - Month 3
 description: Ending the What Got Done experiment.
 images:
-- /images/retrospectives/2019/08/whatgotdone-new-users-2019-07.jpg
+- /retrospectives/2019/08/whatgotdone-new-users-2019-07.jpg
 date: '2019-08-02'
 ---
 
@@ -108,7 +108,7 @@ So, I signed up for Google AdSense and have had a positive experience so far. Th
   * By choosing placement manually, I prevent the ads from ruining the look and feel of the site.
 * I control which ads appear.
   * The review dashboard helps me ensure that users never see ads that are spammy or masquerade as features of my site.
-  * e.g., ads that [insert a fake "Print" button](/images/retrospectives/2019/07/isitketo-ads.png)
+  * e.g., ads that [insert a fake "Print" button](/retrospectives/2019/07/isitketo-ads.png)
 
 {{< img src="adsense-ads.jpg" alt="Screenshot of Is It Keto after adding AdSense ads" caption="Is It Keto with ads from Google AdSense and Amazon Affiliate Program" maxWidth="600px" hasBorder="True" >}}
 
