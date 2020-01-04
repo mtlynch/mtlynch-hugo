@@ -7,6 +7,21 @@ set -e
 # Exit on unset variable.
 set -u
 
+BUILD_DIR=public
+
+echo "Checking Amazon OneLink tags..."
+ONELINK_DIV='<div id="amzn-assoc-ad-1b864722-ce8b-45d9-89b5-0c7b92a1d87b"></div>'
+if (($(grep "$ONELINK_DIV" "$BUILD_DIR" -R | wc -l) < 150)); then
+  echo "ERROR: OneLink <div> didn't appear in enough pages!";
+  exit 1;
+fi
+
+ONELINK_SCRIPT='<script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=1b864722-ce8b-45d9-89b5-0c7b92a1d87b"></script>'
+if (($(grep "$ONELINK_SCRIPT" "$BUILD_DIR" -R | wc -l) < 150)); then
+  echo "ERROR: OneLink <script> didn't appear in enough pages!";
+  exit 1;
+fi
+
 # Exits if we're doing a quick build.
 if [ "${1-}" = "--quick" ]; then
   echo "Skipping Amazon link check..."
@@ -15,7 +30,6 @@ fi
 
 echo "Checking Amazon links..."
 AMAZON_AFFILIATE_ID=mtlynch-20
-BUILD_DIR=public
 
 shortlinks=$(
   egrep \
@@ -43,4 +57,3 @@ for url in $shortlinks; do
     exit 1;
   fi
 done
-
