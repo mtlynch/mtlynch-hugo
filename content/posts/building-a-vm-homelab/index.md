@@ -124,11 +124,10 @@ This is the server with all the parts assembled. There's not much to it because 
 
 Because of my apartment's limited space, I wanted a server I could hide out of sight. I decided to place it behind my desk drawers, adjacent to my desk. It's still as physically reachable as my main desktop, but it's mostly out of view:
 
-<figure class="half">
-  {{< img src="vm-server-front.jpg" alt="Assembled server - front view" >}}
-  {{< img src="vm-server-above.jpg" alt="Assembled server - overhead view" >}}
-  <figcaption>Completed build</figcaption>
-</figure>
+{{< gallery caption="Completed build" >}}
+  {{< bare-img src="vm-server-front.jpg" alt="Assembled server - front view" >}}
+  {{< bare-img src="vm-server-above.jpg" alt="Assembled server - overhead view" >}}
+{{</ gallery >}}
 
 ## Installing a Host OS
 
@@ -148,11 +147,10 @@ I enjoy being able to manage my infrastructure through a web UI, so I installed 
 
 I'd describe Kimchi as "okay." Some of the dashboards are pretty slick:
 
-<figure class="half">
-  {{< img src="kimchi-host-utilization.png" alt="Kimchi host utilization dashboard" >}}
-  {{< img src="kimchi-guests.png" alt="Kimchi guest view" >}}
-  <figcaption>Kimchi web UI screenshots</figcaption>
-</figure>
+{{< gallery caption="Kimchi web UI screenshots" >}}
+  {{< bare-img src="kimchi-host-utilization.png" alt="Kimchi host utilization dashboard" >}}
+  {{< bare-img src="kimchi-guests.png" alt="Kimchi guest view" >}}
+{{</ gallery >}}
 
 It also does certain things really well, like creating a bridged network adapter (which is kind of a pain to figure out on the command line).
 

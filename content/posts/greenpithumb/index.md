@@ -120,11 +120,10 @@ We ultimately settled on "spray and pray." It was a solution borne out of lookin
 
 We turned on the pump, and  the severed finger of the glove immediately shot off the tubing, spraying water all over my apartment's wall. We reattached everything, but this time, stuck a safety pin just in front of the rubber bands so that they couldn't slide forward.
 
-<figure class="half">
-  {{< img src="sprayer-front.jpg" alt="Water sprayer (front)" >}}
-  {{< img src="sprayer-side.jpg" alt="Water sprayer (side)" >}}
-  <figcaption>Kitchen glove turned water distributor</figcaption>
-</figure>
+{{< gallery caption="Kitchen glove turned water distributor" >}}
+  {{< bare-img src="sprayer-front.jpg" alt="Water sprayer (front)" >}}
+  {{< bare-img src="sprayer-side.jpg" alt="Water sprayer (side)" >}}
+{{</ gallery >}}
 
 It's not the most *elegant* solution, but it mostly works.
 
@@ -180,16 +179,16 @@ We ultimately decided to switch to a hybrid system. GreenPiThumb now waters the 
 
 Below are some images of our completed GreenPiThumb build:
 
-<figure class="half">
-  {{< img src="greenpithumb-side-full.jpg" alt="GreenPiThumb full system" >}}
-  {{< img src="greenpithumb-front.jpg" alt="GreenPiThumb full system" >}}
-</figure>
+{{< gallery >}}
+  {{< bare-img src="greenpithumb-side-full.jpg" alt="GreenPiThumb full system" >}}
+  {{< bare-img src="greenpithumb-front.jpg" alt="GreenPiThumb full system" >}}
+{{</ gallery >}}
 
-<figure class="third">
-  {{< img src="greenpithumb-just-electronics.jpg" alt="GreenPiThumb electronics" >}}
-  {{< img src="greenpithumb-pump.jpg" alt="GreenPiThumb pump" >}}
-  {{< img src="greenpithumb-reservoir.jpg" alt="GreenPiThumb reservoir" >}}
-</figure>
+{{< gallery >}}
+  {{< bare-img src="greenpithumb-just-electronics.jpg" alt="GreenPiThumb electronics" >}}
+  {{< bare-img src="greenpithumb-pump.jpg" alt="GreenPiThumb pump" >}}
+  {{< bare-img src="greenpithumb-reservoir.jpg" alt="GreenPiThumb reservoir" >}}
+{{</ gallery >}}
 
 The timelapses have been the most fun part of this process. This one is from our first batch of green beans (R.I.P.). We didn't realize how quickly the plants would outgrow the [close overhead angle](/greenpithumb/greenpithumb-overhead-mount.jpg). We eventually switched to a [larger bendy mount](http://amzn.to/2oCsaD8), which gets a better angle on the plant's full lifecycle, but our original setup caught a great timelapse of the first few days of growth:
 

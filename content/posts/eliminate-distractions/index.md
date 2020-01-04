@@ -181,11 +181,10 @@ This is sufficient for sites like Facebook or Twitter that are near useless when
 
 Here's how to set that up:
 
-<figure class="half">
-  {{< img src="block-news1.jpg" alt="Open uBlock Origin settings" >}}
-  {{< img src="block-news2.jpg" alt="Adding Google News as a blocked site in uBlock Origin" >}}
-  <figcaption>Using <a href="https://github.com/gorhill/uBlock">uBlock Origin</a> rules to block Google News.</figcaption>
-</figure>
+{{< gallery caption="Using [uBlock Origin](https://github.com/gorhill/uBlock) rules to block Google News." >}}
+  {{< bare-img src="block-news1.jpg" alt="Open uBlock Origin settings" >}}
+  {{< bare-img src="block-news2.jpg" alt="Adding Google News as a blocked site in uBlock Origin" >}}
+{{< /gallery >}}
 
 ## Phone
 

@@ -61,19 +61,17 @@ As an example web app to test, I present Sentimentalyzer: the world's dumbest te
 
 If you enter the text `It's a nice day today`, Sentimentalyzer deduces that you're happy:
 
-<figure class="half">
-  {{< img src="sentimentalyzer-analyze-content.png" alt="Entering text in Sentimentalyzer" >}}
-  {{< img src="sentimentalyzer-results-content.png" alt="Sentimentalyzer produces results" >}}
-  <figcaption>Sentimentalyzer analyzing happy text</figcaption>
-</figure>
+{{< gallery caption="Sentimentalyzer analyzing happy text" >}}
+  {{< bare-img src="sentimentalyzer-analyze-content.png" alt="Entering text in Sentimentalyzer" >}}
+  {{< bare-img src="sentimentalyzer-results-content.png" alt="Sentimentalyzer produces results" >}}
+{{</ gallery >}}
 
 If you enter the text `Who ate ALL MY WAFFLES?`, Sentimentalyzer assumes that you're angry:
 
-<figure class="half">
-  {{< img src="sentimentalyzer-analyze-angry.png" alt="Entering text in Sentimentalyzer" >}}
-  {{< img src="sentimentalyzer-results-angry.png" alt="Sentimentalyzer produces results" >}}
-  <figcaption>Sentimentalyzer analyzing angry text</figcaption>
-</figure>
+{{< gallery caption="Sentimentalyzer analyzing angry text" >}}
+  {{< bare-img src="sentimentalyzer-analyze-angry.png" alt="Entering text in Sentimentalyzer" >}}
+  {{< bare-img src="sentimentalyzer-results-angry.png" alt="Sentimentalyzer produces results" >}}
+{{</ gallery >}}
 
 The algorithm is simple: if more than 50% of the characters are uppercase, the user is yelling, so they must be mad. Otherwise, Sentimentalyzer assumes the user feels okay.
 

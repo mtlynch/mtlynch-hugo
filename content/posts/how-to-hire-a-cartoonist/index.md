@@ -117,12 +117,11 @@ And Loraine sent me this initial draft:
 
 Right off the bat, it was pretty close to what I wanted. I asked her to proceed with that sketch, and she sent me a more detailed version. We went a few rounds on minor fixes, but you can see the changes get smaller and smaller as we converge on the final design.
 
-<figure class="third">
-  {{< img src="mma-v1.png" alt="MMA cartoon v1" >}}
-  {{< img src="mma-v2.png" alt="MMA cartoon v2" >}}
-  {{< img src="mma-v3.png" alt="Final version of MMA cartoon" >}}
-  <figcaption>Evolution of "Offer sincere praise" cartoon from <a href="https://mtlynch.io/human-code-reviews-2/#offer-sincere-praise">"How to do Code Reviews Like a Human"</a></figcaption>
-</figure>
+{{< gallery caption="Evolution of \"Offer sincere praise\" cartoon from [How to do Code Reviews Like a Human](https://mtlynch.io/human-code-reviews-2/#offer-sincere-praise)" >}}
+  {{< bare-img src="mma-v1.png" alt="MMA cartoon v1" >}}
+  {{< bare-img src="mma-v2.png" alt="MMA cartoon v2" >}}
+  {{< bare-img src="mma-v3.png" alt="Final version of MMA cartoon" >}}
+{{< /gallery >}}
 
 ## Results
 

@@ -12,6 +12,23 @@
   font-size: 0.9em;
 }
 
+.content figure.gallery .img-container {
+  display: flex;
+  flex-direction: column;
+}
+
+@media screen and (min-width: 768px) {
+  .content figure.gallery .img-container {
+    flex-direction: row;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .content figure.gallery .img-container img {
+    max-width: 99%;
+  }
+}
+
 .img-border {
   border: 1px solid grey;
 }
