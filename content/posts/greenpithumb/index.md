@@ -64,7 +64,7 @@ The code for GreenPiThumb is open-source and features:
 
 ## Hardware architecture
 
-{{< img src="https://raw.githubusercontent.com/JeetShetty/GreenPiThumb/master/doc/greenpithumb_wiring.png)](https://raw.githubusercontent.com/JeetShetty/GreenPiThumb/master/doc/greenpithumb_wiring.png" alt="GreenPiThumb wiring diagram" caption="GreenPiThumb wiring diagram ([downloadable file](https://github.com/JeetShetty/GreenPiThumb/tree/master/doc))" >}}
+{{< figure src="https://raw.githubusercontent.com/JeetShetty/GreenPiThumb/master/doc/greenpithumb_wiring.png" link="https://raw.githubusercontent.com/JeetShetty/GreenPiThumb/master/doc/greenpithumb_wiring.png" alt="GreenPiThumb wiring diagram" caption="GreenPiThumb wiring diagram ([downloadable file](https://github.com/JeetShetty/GreenPiThumb/tree/master/doc))" >}}
 
 The Raspberry Pi reads *digital* signals, so it's not capable of reading analog sensors directly. We use the [MCP3008 analog-to-digital converter](http://amzn.to/2poV4tn) to produce digital readings from the analog [soil moisture sensor](https://www.sparkfun.com/products/13322) and [light sensor](http://amzn.to/2oCFlUO).
 
@@ -74,7 +74,7 @@ Lastly, we have a [12V water pump](http://amzn.to/2p90wk8), but the Raspberry Pi
 
 ## Software architecture
 
-{{< img src="https://docs.google.com/drawings/d/1vY9YU9fFoyrKUh8pRe6gN0bLD1JFDq5ngkTh7yOQrOA/export/png" alt="GreenPiThumb software architecture" caption="GreenPiThumb software architecture" >}}
+{{< figure src="https://docs.google.com/drawings/d/1vY9YU9fFoyrKUh8pRe6gN0bLD1JFDq5ngkTh7yOQrOA/export/png" alt="GreenPiThumb software architecture" caption="GreenPiThumb software architecture" >}}
 
 ### GreenPiThumb back end
 
