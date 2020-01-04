@@ -47,7 +47,7 @@ Samantha was also a great match because she had a background in engineering. She
 I offered Samantha the job that same morning. By 10 AM, she accepted. The entire process from writing the job posting to completing the hire took less than 12 hours.
 
 {{<notice type="info">}}
-Note: Because this entire post is about editing and Samantha's work specifically, it felt appropriate for her to edit this piece~~, so if all of my negative comments about her have been removed, that's why~~.
+Note: Because this entire post is about editing and Samantha's work specifically, it felt appropriate for her to edit this piece ~~, so if all of my negative comments about her have been removed, that's why~~.
 {{< /notice >}}
 
 ## Why hire an editor?
