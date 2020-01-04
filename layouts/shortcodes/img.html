@@ -6,12 +6,8 @@
 {{ $align := .Get "align" }}
 {{ $linkUrl := .Get "linkUrl" }}
 
-{{ $src := "" }}
-{{ if hasPrefix $srcRaw "http" }}
-  {{ $src = $srcRaw }}
-{{ else }}
-  {{ $src = ($.Page.Resources.GetMatch $srcRaw).RelPermalink }}
-{{ end }}
+{{ $image := .Page.Resources.GetMatch $srcRaw }}
+{{ $src := $image.RelPermalink }}
 
 {{ if $src }}
   <figure
@@ -21,6 +17,14 @@
     <a href="{{ if $linkUrl }}{{ $linkUrl }}{{ else }}{{ $src }}{{ end }}">
       <img
         {{ if $hasBorder }}class="img-border"{{ end }}
+        sizes="(min-width: 768px) {{ if $maxWidth }}{{ $maxWidth }}{{ else }}1200px{{ end }}, 98vw"
+        srcset='{{ range $.Site.Params.photoWidths }}
+                  {{- if ge $image.Width . }}
+                    {{ $resized := $image.Resize (printf "%dx" .) }}
+                    {{ $resized.RelPermalink }} {{ . }}w,
+                  {{ end }}
+                {{ end }}
+                {{ $image.RelPermalink }} {{ $image.Width }}w'
         src="{{ $src }}" alt="{{$altText}}"/>
     </a>
     <figcaption><p>{{ $caption | markdownify }}</p></figcaption>
