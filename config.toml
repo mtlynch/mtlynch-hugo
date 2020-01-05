@@ -49,6 +49,7 @@ twitter = "deliberatecoder"
 
 [imaging]
 quality = 70
+resampleFilter = "MitchellNetravali"
 
 # Social links
 [[params.social]]
