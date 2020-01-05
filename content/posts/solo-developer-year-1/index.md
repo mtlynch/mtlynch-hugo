@@ -175,8 +175,8 @@ The more I thought about it, the more sense it made. It was close to my family, 
 So in August, I bought a modest two-bedroom home in South Hadley, Massachusetts. Population: 17,500.
 
 {{< gallery caption="If you're worried about money, just buy a house." >}}
-  {{< bare-img src="house-front.jpg" alt="My house, front view" >}}
-  {{< bare-img src="house-angle.jpg" alt="My house, side view" >}}
+  {{< img src="house-front.jpg" alt="My house, front view" >}}
+  {{< img src="house-angle.jpg" alt="My house, side view" >}}
 {{</ gallery >}}
 
 My living expenses here are ~$2k per month, which is close enough to the rate of return on my personal investments that I'm kind of at equilibrium. I no longer feel a sense of panic that my money is burning up and everything has to happen NOW NOW NOW. The low costs give me the freedom to experiment with projects like Is It Keto, where even a $50 growth in profits is a meaningful victory.
