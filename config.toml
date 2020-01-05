@@ -45,7 +45,7 @@ twitter = "deliberatecoder"
 
     custom_css = ["css/main.css"]
 
-    photoWidths = [300, 600, 800, 1000]
+    photoWidths = [300, 600, 800, 1200]
 
 [imaging]
 quality = 70
